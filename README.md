@@ -3,7 +3,7 @@
 Automated daily open dataset of newly filed **U.S. SEC Regulation D (Form D / D/A)** startup funding rounds, classified to true operating startups (excluding pooled investment funds, structured finance vehicles, and real estate holding LLCs).
 
 - **Latest Snapshot Date:** `2026-11-23`
-- **Verified Operating Startups Tracked:** **17**
+- **Verified Operating Startups Tracked:** **18**
 - **Files:** [`data/2026-11-23.json`](./data/2026-11-23.json) · [`data/latest-operating-filings.csv`](./data/latest-operating-filings.csv)
 - **Automated Schedule:** Updated Monday–Friday at 22:15 UTC via GitHub Actions ([`daily-sync.yml`](./.github/workflows/daily-sync.yml))
 
@@ -26,6 +26,7 @@ Automated daily open dataset of newly filed **U.S. SEC Regulation D (Form D / D/
 | MR3 Health, Inc. | [mr3health.com](https://mr3health.com) | $765,000 | TX | Other Health Care | D/A | [SEC XML](https://www.sec.gov/Archives/edgar/data/1649572/000164957226000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/mr3-health-inc-0001649572-26-000001) |
 | Luwian AI Inc | [luwian.ai](https://luwian.ai) | $693,000 | NY | Other Technology | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2160625/000216062526000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/luwian-ai-inc-0002160625-26-000001) |
 | Newton Golf Company, Inc. | [newtongolfco.com](https://newtongolfco.com) | $500,000 | CA | Manufacturing | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/1934245/000193424526000004/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/newton-golf-company-inc-0001934245-26-000004) |
+| Blue Spruce Management, Inc. | — | $400,000 | VT | Other | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2166434/000216643426000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/blue-spruce-management-inc-0002166434-26-000001) |
 | SABER Chemical, Inc. | [saberchemical.com](https://saberchemical.com) | $25,000 | IA | Manufacturing | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2166051/000216605126000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/saber-chemical-inc-0002166051-26-000001) |
 | Zamorak Inc. | [zamorak.com](https://zamorak.com) | $15,000 | PA | Other Technology | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2165684/000213471826000120/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/zamorak-inc-0002134718-26-000120) |
 

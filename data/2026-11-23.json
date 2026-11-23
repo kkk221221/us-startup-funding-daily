@@ -770,19 +770,96 @@
     "enrichedAt": "2026-11-23T11:35:13.305Z"
   },
   {
+    "accessionNumber": "0002166434-26-000001",
+    "slug": "blue-spruce-management-inc-0002166434-26-000001",
+    "cik": "0002166434",
+    "formType": "D",
+    "filedAt": "2026-11-20T17:28:17-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2166434/000216643426000001/primary_doc.xml",
+    "entityName": "Blue Spruce Management, Inc.",
+    "entityType": "Corporation",
+    "yearOfInc": "2026",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "401 EAST MAIN STREET",
+    "city": "NEWPORT",
+    "stateOrCountry": "VT",
+    "zipCode": "05855",
+    "issuerPhone": "518-505-0633",
+    "industryGroupType": "Other",
+    "industrySlug": "other",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-11-06",
+    "totalOfferingAmount": 400000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 400000,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 1,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Mohammad",
+        "lastName": "Malik",
+        "relationships": [
+          "Executive Officer",
+          "Director",
+          "Promoter"
+        ],
+        "middleName": "Umair",
+        "city": "Newport",
+        "stateOrCountry": "VT"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": []
+    },
+    "signalScore": 45,
+    "signalReasons": [
+      "Operating company (Other)",
+      "Disclosed $400K capital sold",
+      "Recently incorporated (2026)",
+      "Recent first sale (2026-11-06)"
+    ],
+    "enrichedAt": "2026-11-23T10:45:55.374Z"
+  },
+  {
     "accessionNumber": "0001928649-26-000003",
+    "slug": "mtntough-inc-0001928649-26-000003",
     "cik": "0001928649",
     "formType": "D",
     "filedAt": "2026-11-20T16:56:47-05:00",
     "filingUrl": "https://www.sec.gov/Archives/edgar/data/1928649/000192864926000003/primary_doc.xml",
     "entityName": "MTNTough Inc.",
     "entityType": "Corporation",
+    "yearOfInc": "2022",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "167 All West Trail",
+    "city": "BOZEMAN",
+    "stateOrCountry": "MT",
+    "zipCode": "59715",
+    "issuerPhone": "(406) 577-2165",
     "industryGroupType": "Other Technology",
+    "industrySlug": "other-technology",
     "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
     "federalExemptions": [
       "06b"
     ],
     "isAmendment": false,
+    "dateOfFirstSale": "2026-11-12",
     "totalOfferingAmount": 1238157,
     "isIndefiniteOffering": false,
     "totalAmountSold": 1238157,
@@ -841,82 +918,53 @@
         "stateOrCountry": "MT"
       }
     ],
-    "yearOfInc": "2022",
-    "jurisdictionOfInc": "DELAWARE",
-    "street1": "167 All West Trail",
-    "street2": "Unit A",
-    "city": "BOZEMAN",
-    "stateOrCountry": "MT",
-    "stateOrCountryDescription": "MONTANA",
-    "zipCode": "59715",
-    "issuerPhone": "(406) 577-2165",
-    "revenueRange": "Decline to Disclose",
-    "dateOfFirstSale": "2026-11-12",
-    "slug": "mtntough-inc-0001928649-26-000003",
-    "industrySlug": "other-technology",
-    "classification": {
-      "entityClass": "startup",
-      "isOperating": true,
-      "isStartup": true,
-      "startupScore": 10,
-      "reasons": [
-        "Incorporated as Corporation (+2)",
-        "Delaware jurisdiction (+1)",
-        "Incorporated within 10 years (2022) (+2)",
-        "Incorporated within 5 years (2022) (+1)",
-        "High-signal startup industry (Other Technology) (+2)",
-        "Human executive officer disclosed (+1)",
-        "Multi-member human corporate leadership team (+1)"
-      ]
-    },
     "telemetry": {
       "resolvedDomain": "mtntough.com",
       "domainConfidence": "high",
-      "domainScore": 80,
-      "domainEvidence": [
-        "Brand match in title/site_name (+40)",
-        "Final host matches candidate/brand (mtntough.com) (+10)",
-        "HTML contains issuer location (MONTANA) (+10)",
-        "Industry keyword overlap (Other Technology) (+5)",
-        "MX record present (google-workspace) (+5)",
-        "Enterprise MX (google-workspace) (+5)",
-        "Canonical .com candidate (+5)"
-      ],
+      "websiteTitle": "MTNTOUGH - Online Physical & Mental Fitness for Mountain Athletes",
       "mxProvider": "google-workspace",
       "hasSpf": true,
       "hasDmarc": true,
       "detectedAts": "none",
       "techSignals": [
         "Cloudflare"
-      ],
-      "websiteTitle": "MTNTOUGH - Online Physical & Mental Fitness for Mountain Athletes",
-      "httpStatus": 200
+      ]
     },
     "signalScore": 77,
     "signalReasons": [
-      "Operating startup (Other Technology)",
+      "Operating company (Other Technology)",
       "Disclosed $1.2M capital sold",
       "Recent first sale (2026-11-12)",
       "Verified corporate domain (mtntough.com)",
       "Enterprise email (Google Workspace)",
       "SPF & DMARC email authentication configured"
     ],
-    "enrichedAt": "2026-11-23T11:35:16.002Z"
+    "enrichedAt": "2026-11-23T10:45:52.633Z"
   },
   {
     "accessionNumber": "0001649572-26-000001",
+    "slug": "mr3-health-inc-0001649572-26-000001",
     "cik": "0001649572",
     "formType": "D/A",
     "filedAt": "2026-11-20T16:48:26-05:00",
     "filingUrl": "https://www.sec.gov/Archives/edgar/data/1649572/000164957226000001/primary_doc.xml",
     "entityName": "MR3 Health, Inc.",
     "entityType": "Corporation",
+    "jurisdictionOfInc": "TEXAS",
+    "street1": "6205 West Ave #B",
+    "city": "SAN ANTONIO",
+    "stateOrCountry": "TX",
+    "zipCode": "78213",
+    "issuerPhone": "210-562-3128",
     "industryGroupType": "Other Health Care",
+    "industrySlug": "other-health-care",
     "isPooledInvestmentFund": false,
+    "revenueRange": "$1 - $1,000,000",
     "federalExemptions": [
       "06b"
     ],
     "isAmendment": true,
+    "dateOfFirstSale": "2022-07-08",
     "totalOfferingAmount": 6000000,
     "isIndefiniteOffering": false,
     "totalAmountSold": 765000,
@@ -937,62 +985,27 @@
         "stateOrCountry": "TX"
       }
     ],
-    "jurisdictionOfInc": "TEXAS",
-    "street1": "6205 West Ave #B",
-    "city": "SAN ANTONIO",
-    "stateOrCountry": "TX",
-    "stateOrCountryDescription": "TEXAS",
-    "zipCode": "78213",
-    "issuerPhone": "210-562-3128",
-    "revenueRange": "$1 - $1,000,000",
-    "dateOfFirstSale": "2022-07-08",
-    "slug": "mr3-health-inc-0001649572-26-000001",
-    "industrySlug": "other-health-care",
-    "classification": {
-      "entityClass": "startup",
-      "isOperating": true,
-      "isStartup": true,
-      "startupScore": 7,
-      "reasons": [
-        "Incorporated as Corporation (+2)",
-        "Operating industry (Other Health Care) (+1)",
-        "Tech/health/science name signal (+2)",
-        "Early-stage revenue range ($1 - $1,000,000) (+1)",
-        "Human executive officer disclosed (+1)"
-      ]
-    },
     "telemetry": {
       "resolvedDomain": "mr3health.com",
       "domainConfidence": "high",
-      "domainScore": 85,
-      "domainEvidence": [
-        "Brand match in title/site_name (+40)",
-        "Final host matches candidate/brand (mr3health.com) (+10)",
-        "HTML references officer/director Marett (+15)",
-        "Industry keyword overlap (Other Health Care) (+5)",
-        "MX record present (microsoft-365) (+5)",
-        "Enterprise MX (microsoft-365) (+5)",
-        "Canonical .com candidate (+5)"
-      ],
+      "websiteTitle": "Who We Are - MR3 Health",
       "mxProvider": "microsoft-365",
       "hasSpf": true,
       "hasDmarc": false,
       "detectedAts": "none",
       "techSignals": [
         "Cloudflare"
-      ],
-      "websiteTitle": "Who We Are - MR3 Health",
-      "httpStatus": 200
+      ]
     },
     "signalScore": 62,
     "signalReasons": [
-      "Operating startup (Other Health Care)",
+      "Operating company (Other Health Care)",
       "Disclosed $765K capital sold",
       "Verified corporate domain (mr3health.com)",
       "Enterprise email (Microsoft 365)",
       "Partial email authentication (SPF)"
     ],
-    "enrichedAt": "2026-11-23T11:35:17.338Z"
+    "enrichedAt": "2026-11-23T10:45:53.235Z"
   },
   {
     "accessionNumber": "0001934245-26-000004",
