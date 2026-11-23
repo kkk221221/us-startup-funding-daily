@@ -20,6 +20,9 @@ const EXCLUDED_INDUSTRIES = new Set([
 
 function isOperatingStartup(filing) {
   if (!filing || typeof filing !== "object") return false;
+  if (filing.classification && typeof filing.classification.entityClass === "string") {
+    return filing.classification.entityClass === "startup";
+  }
   if (filing.isPooledInvestmentFund === true) return false;
   const name = String(filing.entityName || "");
   if (/GS Finance Corp/i.test(name)) return false;
@@ -27,6 +30,23 @@ function isOperatingStartup(filing) {
   const industry = String(filing.industryGroupType || "");
   if (EXCLUDED_INDUSTRIES.has(industry)) return false;
   return true;
+}
+
+function deduplicateByCik(filings) {
+  const byCik = new Map();
+  for (const f of filings) {
+    const key = f.cik || f.accessionNumber || f.slug || f.entityName;
+    const prev = byCik.get(key);
+    if (!prev) {
+      byCik.set(key, f);
+      continue;
+    }
+    const soldDiff = (f.totalAmountSold ?? 0) - (prev.totalAmountSold ?? 0);
+    if (soldDiff > 0 || (soldDiff === 0 && String(f.filedAt ?? "") > String(prev.filedAt ?? ""))) {
+      byCik.set(key, f);
+    }
+  }
+  return Array.from(byCik.values());
 }
 
 function getTodayDateUtc() {
@@ -199,13 +219,14 @@ function loadExistingFilings(todayFile) {
 function writeCsv(filings, csvPath) {
   const headers = [
     "entity_name",
+    "website",
+    "resolved_domain",
     "form_type",
     "filed_at",
     "state",
     "industry",
     "total_amount_sold_usd",
     "total_offering_amount_usd",
-    "resolved_domain",
     "mx_provider",
     "detected_ats",
     "signal_score",
@@ -217,17 +238,20 @@ function writeCsv(filings, csvPath) {
   const rows = [headers.join(",")];
   for (const f of filings) {
     const t = f.telemetry ?? {};
+    const domain = t.resolvedDomain ?? "";
+    const website = domain ? `https://${domain}` : "";
     const dossierUrl = f.slug ? `${FORMDPULSE_ORIGIN}/filing/${f.slug}` : FORMDPULSE_ORIGIN;
     rows.push(
       [
         f.entityName,
+        website,
+        domain,
         f.formType ?? "D",
         f.filedAt ?? "",
         f.stateOrCountry ?? "",
         f.industryGroupType ?? "",
         f.totalAmountSold ?? "",
         f.totalOfferingAmount ?? "",
-        t.resolvedDomain ?? "",
         t.mxProvider ?? "",
         t.detectedAts ?? "",
         f.signalScore ?? "",
@@ -252,12 +276,13 @@ function renderReadme({ dateStr, filings, secFeed }) {
 
   const enrichedRows = sorted
     .map((f) => {
-      const domain = f.telemetry?.resolvedDomain ? `\`${f.telemetry.resolvedDomain}\`` : "—";
+      const domain = f.telemetry?.resolvedDomain;
+      const websiteCell = domain ? `[${escapeMd(domain)}](https://${domain})` : "—";
       const secLink = f.filingUrl ? `[SEC XML](${f.filingUrl})` : "—";
       const dossierUrl = f.slug ? `${FORMDPULSE_ORIGIN}/filing/${f.slug}` : FORMDPULSE_ORIGIN;
       const dossierLink = `[Dossier](${dossierUrl})`;
       const amount = formatUsd(f.totalAmountSold);
-      return `| ${escapeMd(f.entityName)} | ${amount} | ${escapeMd(f.stateOrCountry || "—")} | ${escapeMd(f.industryGroupType || "—")} | ${escapeMd(f.formType || "D")} | ${domain} | ${secLink} | ${dossierLink} |`;
+      return `| ${escapeMd(f.entityName)} | ${websiteCell} | ${amount} | ${escapeMd(f.stateOrCountry || "—")} | ${escapeMd(f.industryGroupType || "—")} | ${escapeMd(f.formType || "D")} | ${secLink} | ${dossierLink} |`;
     })
     .join("\n");
 
@@ -277,17 +302,17 @@ function renderReadme({ dateStr, filings, secFeed }) {
 
   return `# US Startup Funding Daily (SEC Form D Open Dataset)
 
-Automated daily open dataset of newly filed **U.S. SEC Regulation D (Form D / D/A)** startup funding rounds, filtered to exclude pooled investment funds, structured finance vehicles, and obvious real estate holding LLCs.
+Automated daily open dataset of newly filed **U.S. SEC Regulation D (Form D / D/A)** startup funding rounds, classified to true operating startups (excluding pooled investment funds, structured finance vehicles, and real estate holding LLCs).
 
 - **Latest Snapshot Date:** \`${dateStr}\`
-- **Operating Startup Filings Tracked:** **${sorted.length}**
+- **Verified Operating Startups Tracked:** **${sorted.length}**
 - **Files:** [\`data/${dateStr}.json\`](./data/${dateStr}.json) · [\`data/latest-operating-filings.csv\`](./data/latest-operating-filings.csv)
 - **Automated Schedule:** Updated Monday–Friday at 22:15 UTC via GitHub Actions ([\`daily-sync.yml\`](./.github/workflows/daily-sync.yml))
 
 ## Enriched Operating Startup Filings
 
-| Issuer Name | Amount Raised | State | Industry | Form Type | Corporate Domain | SEC Filing | FormDPulse Dossier |
-| --- | ---: | --- | --- | --- | --- | --- | --- |
+| Issuer Name | Website | Amount Raised | State | Industry | Form Type | SEC Filing | FormDPulse Dossier |
+| --- | --- | ---: | --- | --- | --- | --- | --- |
 ${enrichedRows}
 
 ${secSection}
@@ -331,7 +356,7 @@ async function main() {
     console.warn(`[update-daily] FormDPulse preview fetch skipped (${previewRes.note})`);
   }
 
-  const merged = Array.from(byAcc.values()).sort((a, b) =>
+  const merged = deduplicateByCik(Array.from(byAcc.values())).sort((a, b) =>
     String(b.filedAt ?? "").localeCompare(String(a.filedAt ?? "")),
   );
 

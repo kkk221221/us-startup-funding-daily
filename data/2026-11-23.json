@@ -1,53 +1,757 @@
 [
   {
-    "accessionNumber": "0002166434-26-000001",
-    "cik": "0002166434",
+    "accessionNumber": "0002166374-26-000001",
+    "cik": "0002166374",
     "formType": "D",
-    "filedAt": "2026-11-20T17:28:17-05:00",
-    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2166434/000216643426000001/primary_doc.xml",
-    "entityName": "Blue Spruce Management, Inc.",
+    "filedAt": "2026-11-20T20:33:43-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2166374/000216637426000001/primary_doc.xml",
+    "entityName": "Feedback Technologies, Inc.",
     "entityType": "Corporation",
-    "industryGroupType": "Other",
+    "industryGroupType": "Other Technology",
     "isPooledInvestmentFund": false,
     "federalExemptions": [
       "06b"
     ],
     "isAmendment": false,
-    "totalOfferingAmount": 400000,
+    "totalOfferingAmount": null,
+    "isIndefiniteOffering": true,
+    "totalAmountSold": 1250000,
+    "totalRemaining": null,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 2,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Estella",
+        "lastName": "Zhou",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Menlo Park",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Jakub",
+        "lastName": "Smekal",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Menlo Park",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "yearOfInc": "2026",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "15 STOWE LN",
+    "city": "MENLO PARK",
+    "stateOrCountry": "CA",
+    "stateOrCountryDescription": "CALIFORNIA",
+    "zipCode": "94025",
+    "issuerPhone": "5109362646",
+    "revenueRange": "No Revenues",
+    "dateOfFirstSale": "2026-11-09",
+    "slug": "feedback-technologies-inc-0002166374-26-000001",
+    "industrySlug": "other-technology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 13,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2026) (+2)",
+        "Incorporated within 5 years (2026) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Early-stage revenue range (No Revenues) (+1)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "feedback.com",
+      "domainConfidence": "medium",
+      "domainScore": 45,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (feedback.com) (+10)",
+        "Canonical .com candidate (+5)",
+        "Homonym guard: brand match without industry/person/location overlap (-10)"
+      ],
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ],
+      "websiteTitle": "Feedback.com · Coming Soon",
+      "httpStatus": 200
+    },
+    "signalScore": 62,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $1.3M capital sold",
+      "Recently incorporated (2026)",
+      "Recent first sale (2026-11-09)",
+      "Probable corporate domain (feedback.com)"
+    ],
+    "enrichedAt": "2026-11-23T11:35:15.792Z"
+  },
+  {
+    "accessionNumber": "0002120054-26-000004",
+    "cik": "0002120054",
+    "formType": "D",
+    "filedAt": "2026-11-20T20:11:04-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2120054/000212005426000004/primary_doc.xml",
+    "entityName": "Kaliber Labs Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Health Care",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 3609344,
     "isIndefiniteOffering": false,
-    "totalAmountSold": 400000,
+    "totalAmountSold": 3609344,
     "totalRemaining": 0,
     "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 17,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Ray",
+        "lastName": "Rahman",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "San Mateo",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Paul",
+        "lastName": "Gabos",
+        "relationships": [
+          "Director"
+        ],
+        "middleName": "G.",
+        "city": "San Mateo",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "900 CONCAR DRIVE",
+    "city": "SAN MATEO",
+    "stateOrCountry": "CA",
+    "stateOrCountryDescription": "CALIFORNIA",
+    "zipCode": "94402",
+    "issuerPhone": "917-399-5009",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2021-01-08",
+    "slug": "kaliber-labs-inc-0002120054-26-000004",
+    "industrySlug": "other-health-care",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 8,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Operating industry (Other Health Care) (+1)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "kaliber.ai",
+      "domainConfidence": "high",
+      "domainScore": 75,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (kaliber.ai) (+10)",
+        "HTML contains entity legal-name variant (+15)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "websiteTitle": "Kaliber · Applied AI, from research to reality",
+      "httpStatus": 200
+    },
+    "signalScore": 65,
+    "signalReasons": [
+      "Operating startup (Other Health Care)",
+      "Disclosed $3.6M capital sold",
+      "Verified corporate domain (kaliber.ai)",
+      "Enterprise email (Google Workspace)"
+    ],
+    "enrichedAt": "2026-11-23T11:35:11.778Z"
+  },
+  {
+    "accessionNumber": "0002015969-26-000004",
+    "cik": "0002015969",
+    "formType": "D",
+    "filedAt": "2026-11-20T19:30:07-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2015969/000201596926000004/primary_doc.xml",
+    "entityName": "Dandelion Health Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Health Care",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 18402074,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 18402073,
+    "totalRemaining": 1,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 9,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Elliott",
+        "lastName": "Green",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "GLEN COVE",
+        "stateOrCountry": "NY"
+      },
+      {
+        "firstName": "Niyum",
+        "lastName": "Gandhi",
+        "relationships": [
+          "Director"
+        ],
+        "city": "GLEN COVE",
+        "stateOrCountry": "NY"
+      },
+      {
+        "firstName": "Sendhil",
+        "lastName": "Mullainathan",
+        "relationships": [
+          "Director"
+        ],
+        "city": "GLEN COVE",
+        "stateOrCountry": "NY"
+      },
+      {
+        "firstName": "Sam",
+        "lastName": "Toole",
+        "relationships": [
+          "Director"
+        ],
+        "city": "GLEN COVE",
+        "stateOrCountry": "NY"
+      },
+      {
+        "firstName": "Aman",
+        "lastName": "Mahajan",
+        "relationships": [
+          "Director"
+        ],
+        "city": "GLEN COVE",
+        "stateOrCountry": "NY"
+      }
+    ],
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "5 BREWSTER STREET #2048",
+    "city": "GLEN COVE",
+    "stateOrCountry": "NY",
+    "stateOrCountryDescription": "NEW YORK",
+    "zipCode": "11542",
+    "issuerPhone": "(201) 472-0271",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-02-09",
+    "slug": "dandelion-health-inc-0002015969-26-000004",
+    "industrySlug": "other-health-care",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 8,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Operating industry (Other Health Care) (+1)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "dandelionhealth.ai",
+      "domainConfidence": "high",
+      "domainScore": 80,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (dandelionhealth.ai) (+10)",
+        "HTML contains entity legal-name variant (+15)",
+        "Industry keyword overlap (Other Health Care) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": true,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ],
+      "websiteTitle": "Dandelion Health | Clinical intelligence for life sciences",
+      "httpStatus": 200
+    },
+    "signalScore": 75,
+    "signalReasons": [
+      "Operating startup (Other Health Care)",
+      "Disclosed $18.4M capital sold",
+      "Verified corporate domain (dandelionhealth.ai)",
+      "Enterprise email (Google Workspace)",
+      "SPF & DMARC email authentication configured"
+    ],
+    "enrichedAt": "2026-11-23T11:35:19.284Z"
+  },
+  {
+    "accessionNumber": "0002069196-26-000002",
+    "cik": "0002069196",
+    "formType": "D",
+    "filedAt": "2026-11-20T18:47:32-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2069196/000206919626000002/primary_doc.xml",
+    "entityName": "next robot inc",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Technology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 5109178,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 5109178,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 10000,
+    "totalInvestorsCount": 7,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Zhenyu",
+        "lastName": "Huang",
+        "relationships": [
+          "Executive Officer",
+          "Director",
+          "Promoter"
+        ],
+        "city": "CHINO HILLS",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "yearOfInc": "2023",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "15920 POMONA RINCON RD",
+    "street2": "UNIT 5101",
+    "city": "CHINO HILLS",
+    "stateOrCountry": "CA",
+    "stateOrCountryDescription": "CALIFORNIA",
+    "zipCode": "91709",
+    "issuerPhone": "626-905-1999",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-05-11",
+    "slug": "next-robot-inc-0002069196-26-000002",
+    "industrySlug": "other-technology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 9,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2023) (+2)",
+        "Incorporated within 5 years (2023) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Human executive officer disclosed (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "nextrobot.com",
+      "domainConfidence": "high",
+      "domainScore": 70,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (nextrobot.com) (+10)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ],
+      "websiteTitle": "Next Robot - Next-Level Culinary Automation",
+      "httpStatus": 200
+    },
+    "signalScore": 75,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $5.1M capital sold",
+      "Recently incorporated (2023)",
+      "Verified corporate domain (nextrobot.com)",
+      "Enterprise email (Google Workspace)",
+      "Partial email authentication (SPF)"
+    ],
+    "enrichedAt": "2026-11-23T11:35:16.453Z"
+  },
+  {
+    "accessionNumber": "0002166051-26-000001",
+    "cik": "0002166051",
+    "formType": "D",
+    "filedAt": "2026-11-20T18:25:45-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2166051/000216605126000001/primary_doc.xml",
+    "entityName": "SABER Chemical, Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Manufacturing",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 25000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 25000,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 25000,
     "totalInvestorsCount": 1,
     "hasNonAccreditedInvestors": false,
     "salesCommissions": 0,
     "findersFees": 0,
     "relatedPersons": [
       {
-        "firstName": "Mohammad",
-        "lastName": "Malik",
+        "firstName": "Baker",
+        "lastName": "Kuehl",
         "relationships": [
           "Executive Officer",
           "Director",
           "Promoter"
         ],
-        "middleName": "Umair",
-        "city": "Newport",
-        "stateOrCountry": "VT"
+        "middleName": "Ward",
+        "relationshipClarification": "President and CEO; director; founder.",
+        "city": "Ames",
+        "stateOrCountry": "IA"
+      },
+      {
+        "firstName": "Eric",
+        "lastName": "Cochran",
+        "relationships": [
+          "Director",
+          "Promoter"
+        ],
+        "middleName": "William",
+        "relationshipClarification": "Treasurer; director; founder.",
+        "city": "Ames",
+        "stateOrCountry": "IA"
+      },
+      {
+        "firstName": "Vivek",
+        "lastName": "Garg",
+        "relationships": [
+          "Director",
+          "Promoter"
+        ],
+        "relationshipClarification": "Vice-President; director; founder.",
+        "city": "Ames",
+        "stateOrCountry": "IA"
+      },
+      {
+        "firstName": "Michael",
+        "lastName": "Forrester",
+        "relationships": [
+          "Director",
+          "Promoter"
+        ],
+        "middleName": "John",
+        "relationshipClarification": "Secretary; director; founder.",
+        "city": "Ames",
+        "stateOrCountry": "IA"
+      }
+    ],
+    "yearOfInc": "2025",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "3115 PERIDOT AVE",
+    "street2": "APT 316",
+    "city": "AMES",
+    "stateOrCountry": "IA",
+    "stateOrCountryDescription": "IOWA",
+    "zipCode": "50010",
+    "issuerPhone": "5152406139",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-11-20",
+    "slug": "saber-chemical-inc-0002166051-26-000001",
+    "industrySlug": "manufacturing",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 9,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2025) (+2)",
+        "Incorporated within 5 years (2025) (+1)",
+        "Operating industry (Manufacturing) (+1)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "saberchemical.com",
+      "domainConfidence": "high",
+      "domainScore": 95,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (saberchemical.com) (+10)",
+        "HTML contains entity legal-name variant (+15)",
+        "HTML contains issuer location (IOWA) (+10)",
+        "Industry keyword overlap (Manufacturing) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": true,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ],
+      "websiteTitle": "Compostable Impact Modifier for Tough PLA | SABER Chemical | SABER Chemical",
+      "httpStatus": 200
+    },
+    "signalScore": 80,
+    "signalReasons": [
+      "Operating startup (Manufacturing)",
+      "Disclosed $25K capital sold",
+      "Recently incorporated (2025)",
+      "Recent first sale (2026-11-20)",
+      "Verified corporate domain (saberchemical.com)",
+      "Enterprise email (Google Workspace)",
+      "SPF & DMARC email authentication configured"
+    ],
+    "enrichedAt": "2026-11-23T11:35:14.245Z"
+  },
+  {
+    "accessionNumber": "0002134718-26-000120",
+    "cik": "0002165684",
+    "formType": "D",
+    "filedAt": "2026-11-20T17:48:59-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2165684/000213471826000120/primary_doc.xml",
+    "entityName": "Zamorak Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Technology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 1345000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 15000,
+    "totalRemaining": 1330000,
+    "minimumInvestmentAccepted": 5000,
+    "totalInvestorsCount": 3,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Enthanu",
+        "lastName": "Moos",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "Mitchell",
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      },
+      {
+        "firstName": "Joseph",
+        "lastName": "Choomno",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "middleName": "Moos",
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      },
+      {
+        "firstName": "Geddes",
+        "lastName": "Graeme",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "middleName": "Macklaine Ferguson",
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
       }
     ],
     "yearOfInc": "2026",
     "jurisdictionOfInc": "DELAWARE",
-    "street1": "401 EAST MAIN STREET",
-    "city": "NEWPORT",
-    "stateOrCountry": "VT",
-    "stateOrCountryDescription": "VERMONT",
-    "zipCode": "05855",
-    "issuerPhone": "518-505-0633",
+    "street1": "5115 HADFIELD STREET",
+    "city": "PHILADELPHIA",
+    "stateOrCountry": "PA",
+    "stateOrCountryDescription": "PENNSYLVANIA",
+    "zipCode": "19143",
+    "issuerPhone": "503-438-9490",
     "revenueRange": "Decline to Disclose",
-    "dateOfFirstSale": "2026-11-06",
-    "slug": "blue-spruce-management-inc-0002166434-26-000001",
-    "industrySlug": "other",
+    "dateOfFirstSale": "2026-11-07",
+    "slug": "zamorak-inc-0002134718-26-000120",
+    "industrySlug": "other-technology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 10,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2026) (+2)",
+        "Incorporated within 5 years (2026) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "zamorak.com",
+      "domainConfidence": "high",
+      "domainScore": 85,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (zamorak.com) (+10)",
+        "HTML references officer/director Moos (+15)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "websiteTitle": "Zamorak — license your company data",
+      "httpStatus": 200
+    },
+    "signalScore": 77,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $15K capital sold",
+      "Recently incorporated (2026)",
+      "Recent first sale (2026-11-07)",
+      "Verified corporate domain (zamorak.com)",
+      "Enterprise email (Google Workspace)",
+      "Partial email authentication (SPF)"
+    ],
+    "enrichedAt": "2026-11-23T11:35:15.521Z"
+  },
+  {
+    "accessionNumber": "0002080259-26-000003",
+    "cik": "0002080259",
+    "formType": "D/A",
+    "filedAt": "2026-11-20T17:36:12-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2080259/000208025926000003/primary_doc.xml",
+    "entityName": "Paralos Bioscience Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Biotechnology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": true,
+    "totalOfferingAmount": 1100000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 1061900,
+    "totalRemaining": 38100,
+    "minimumInvestmentAccepted": 5000,
+    "totalInvestorsCount": 9,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Irene",
+        "lastName": "Chen",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Los Angeles",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Yanxi",
+        "lastName": "Yang",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "city": "Los Angeles",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "yearOfInc": "2024",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "570 WESTWOOD PLAZA LAB ROOM 6350",
+    "street2": "ATTN: PARALOS BIOSCIENCE INC (MAGNIFY)",
+    "city": "LOS ANGELES",
+    "stateOrCountry": "CA",
+    "stateOrCountryDescription": "CALIFORNIA",
+    "zipCode": "90095",
+    "issuerPhone": "6177108741",
+    "revenueRange": "$1 - $1,000,000",
+    "dateOfFirstSale": "2025-07-28",
+    "slug": "paralos-bioscience-inc-0002080259-26-000003",
+    "industrySlug": "biotechnology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 13,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2024) (+2)",
+        "Incorporated within 5 years (2024) (+1)",
+        "High-signal startup industry (Biotechnology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Early-stage revenue range ($1 - $1,000,000) (+1)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
     "telemetry": {
       "resolvedDomain": null,
       "domainConfidence": "none",
@@ -57,14 +761,13 @@
       "detectedAts": "none",
       "techSignals": []
     },
-    "signalScore": 45,
+    "signalScore": 43,
     "signalReasons": [
-      "Operating company (Other)",
-      "Disclosed $400K capital sold",
-      "Recently incorporated (2026)",
-      "Recent first sale (2026-11-06)"
+      "Operating startup (Biotechnology)",
+      "Disclosed $1.1M capital sold",
+      "Recently incorporated (2024)"
     ],
-    "enrichedAt": "2026-11-23T10:45:55.374Z"
+    "enrichedAt": "2026-11-23T11:35:13.305Z"
   },
   {
     "accessionNumber": "0001928649-26-000003",
@@ -151,10 +854,34 @@
     "dateOfFirstSale": "2026-11-12",
     "slug": "mtntough-inc-0001928649-26-000003",
     "industrySlug": "other-technology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 10,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2022) (+2)",
+        "Incorporated within 5 years (2022) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
     "telemetry": {
       "resolvedDomain": "mtntough.com",
       "domainConfidence": "high",
-      "httpStatus": 200,
+      "domainScore": 80,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (mtntough.com) (+10)",
+        "HTML contains issuer location (MONTANA) (+10)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
       "mxProvider": "google-workspace",
       "hasSpf": true,
       "hasDmarc": true,
@@ -162,18 +889,19 @@
       "techSignals": [
         "Cloudflare"
       ],
-      "websiteTitle": "MTNTOUGH - Online Physical & Mental Fitness for Mountain Athletes"
+      "websiteTitle": "MTNTOUGH - Online Physical & Mental Fitness for Mountain Athletes",
+      "httpStatus": 200
     },
     "signalScore": 77,
     "signalReasons": [
-      "Operating company (Other Technology)",
+      "Operating startup (Other Technology)",
       "Disclosed $1.2M capital sold",
       "Recent first sale (2026-11-12)",
       "Verified corporate domain (mtntough.com)",
       "Enterprise email (Google Workspace)",
       "SPF & DMARC email authentication configured"
     ],
-    "enrichedAt": "2026-11-23T10:45:52.633Z"
+    "enrichedAt": "2026-11-23T11:35:16.002Z"
   },
   {
     "accessionNumber": "0001649572-26-000001",
@@ -220,10 +948,32 @@
     "dateOfFirstSale": "2022-07-08",
     "slug": "mr3-health-inc-0001649572-26-000001",
     "industrySlug": "other-health-care",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 7,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Operating industry (Other Health Care) (+1)",
+        "Tech/health/science name signal (+2)",
+        "Early-stage revenue range ($1 - $1,000,000) (+1)",
+        "Human executive officer disclosed (+1)"
+      ]
+    },
     "telemetry": {
       "resolvedDomain": "mr3health.com",
       "domainConfidence": "high",
-      "httpStatus": 200,
+      "domainScore": 85,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (mr3health.com) (+10)",
+        "HTML references officer/director Marett (+15)",
+        "Industry keyword overlap (Other Health Care) (+5)",
+        "MX record present (microsoft-365) (+5)",
+        "Enterprise MX (microsoft-365) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
       "mxProvider": "microsoft-365",
       "hasSpf": true,
       "hasDmarc": false,
@@ -231,100 +981,18 @@
       "techSignals": [
         "Cloudflare"
       ],
-      "websiteTitle": "Who We Are - MR3 Health"
+      "websiteTitle": "Who We Are - MR3 Health",
+      "httpStatus": 200
     },
     "signalScore": 62,
     "signalReasons": [
-      "Operating company (Other Health Care)",
+      "Operating startup (Other Health Care)",
       "Disclosed $765K capital sold",
       "Verified corporate domain (mr3health.com)",
       "Enterprise email (Microsoft 365)",
       "Partial email authentication (SPF)"
     ],
-    "enrichedAt": "2026-11-23T10:45:53.235Z"
-  },
-  {
-    "accessionNumber": "0002044196-26-000003",
-    "cik": "0002044196",
-    "formType": "D",
-    "filedAt": "2026-11-20T16:39:36-05:00",
-    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2044196/000204419626000003/primary_doc.xml",
-    "entityName": "Evergreen Partners Holdco, Inc.",
-    "entityType": "Corporation",
-    "industryGroupType": "Other",
-    "isPooledInvestmentFund": false,
-    "federalExemptions": [
-      "06b"
-    ],
-    "isAmendment": false,
-    "totalOfferingAmount": 12000000,
-    "isIndefiniteOffering": false,
-    "totalAmountSold": 9401000,
-    "totalRemaining": 2599000,
-    "minimumInvestmentAccepted": 100000,
-    "totalInvestorsCount": 32,
-    "hasNonAccreditedInvestors": false,
-    "salesCommissions": 0,
-    "findersFees": 0,
-    "relatedPersons": [
-      {
-        "firstName": "Matthew",
-        "lastName": "Hobbins",
-        "relationships": [
-          "Executive Officer",
-          "Director"
-        ],
-        "city": "Irvine",
-        "stateOrCountry": "CA"
-      },
-      {
-        "firstName": "Christopher",
-        "lastName": "Christensen",
-        "relationships": [
-          "Director"
-        ],
-        "city": "Irvine",
-        "stateOrCountry": "CA"
-      },
-      {
-        "firstName": "Danny",
-        "lastName": "Walker",
-        "relationships": [
-          "Director"
-        ],
-        "city": "Irvine",
-        "stateOrCountry": "CA"
-      }
-    ],
-    "yearOfInc": "2024",
-    "jurisdictionOfInc": "NEVADA",
-    "street1": "161 WEATHERVANE",
-    "city": "IRVINE",
-    "stateOrCountry": "CA",
-    "stateOrCountryDescription": "CALIFORNIA",
-    "zipCode": "92603",
-    "issuerPhone": "949-482-8008",
-    "revenueRange": "Decline to Disclose",
-    "dateOfFirstSale": "2026-11-17",
-    "slug": "evergreen-partners-holdco-inc-0002044196-26-000003",
-    "industrySlug": "other",
-    "telemetry": {
-      "resolvedDomain": null,
-      "domainConfidence": "none",
-      "mxProvider": "none",
-      "hasSpf": false,
-      "hasDmarc": false,
-      "detectedAts": "none",
-      "techSignals": []
-    },
-    "signalScore": 50,
-    "signalReasons": [
-      "Operating company (Other)",
-      "Disclosed $9.4M capital sold",
-      "Recently incorporated (2024)",
-      "Recent first sale (2026-11-17)"
-    ],
-    "enrichedAt": "2026-11-23T10:45:59.334Z"
+    "enrichedAt": "2026-11-23T11:35:17.338Z"
   },
   {
     "accessionNumber": "0001934245-26-000004",
@@ -418,22 +1086,51 @@
     "dateOfFirstSale": "2026-11-06",
     "slug": "newton-golf-company-inc-0001934245-26-000004",
     "industrySlug": "manufacturing",
-    "telemetry": {
-      "resolvedDomain": null,
-      "domainConfidence": "none",
-      "mxProvider": "none",
-      "hasSpf": false,
-      "hasDmarc": false,
-      "detectedAts": "none",
-      "techSignals": []
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 6,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Operating industry (Manufacturing) (+1)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
     },
-    "signalScore": 37,
+    "telemetry": {
+      "resolvedDomain": "newtongolfco.com",
+      "domainConfidence": "high",
+      "domainScore": 70,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (newtongolfco.com) (+10)",
+        "Industry keyword overlap (Manufacturing) (+5)",
+        "MX record present (microsoft-365) (+5)",
+        "Enterprise MX (microsoft-365) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "microsoft-365",
+      "hasSpf": true,
+      "hasDmarc": true,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ],
+      "websiteTitle": "Premium Golf Shafts & Putters | Newton Golf",
+      "httpStatus": 200
+    },
+    "signalScore": 72,
     "signalReasons": [
-      "Operating company (Manufacturing)",
+      "Operating startup (Manufacturing)",
       "Disclosed $500K capital sold",
-      "Recent first sale (2026-11-06)"
+      "Recent first sale (2026-11-06)",
+      "Verified corporate domain (newtongolfco.com)",
+      "Enterprise email (Microsoft 365)",
+      "SPF & DMARC email authentication configured"
     ],
-    "enrichedAt": "2026-11-23T10:45:57.433Z"
+    "enrichedAt": "2026-11-23T11:35:18.374Z"
   },
   {
     "accessionNumber": "0002031706-26-000001",
@@ -537,85 +1234,53 @@
     "dateOfFirstSale": "2025-12-05",
     "slug": "brightai-corp-0002031706-26-000001",
     "industrySlug": "other-technology",
-    "telemetry": {
-      "resolvedDomain": null,
-      "domainConfidence": "none",
-      "mxProvider": "none",
-      "hasSpf": false,
-      "hasDmarc": false,
-      "detectedAts": "none",
-      "techSignals": []
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 7,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
     },
-    "signalScore": 40,
-    "signalReasons": [
-      "Operating company (Other Technology)",
-      "Disclosed $85.4M capital sold"
-    ],
-    "enrichedAt": "2026-11-23T10:45:57.312Z"
-  },
-  {
-    "accessionNumber": "0001462108-26-000002",
-    "cik": "0001462108",
-    "formType": "D",
-    "filedAt": "2026-11-20T16:10:09-05:00",
-    "filingUrl": "https://www.sec.gov/Archives/edgar/data/1462108/000146210826000002/primary_doc.xml",
-    "entityName": "Lithotripsy Institute of Indiana, LLC",
-    "entityType": "Limited Liability Company",
-    "industryGroupType": "Other Health Care",
-    "isPooledInvestmentFund": false,
-    "federalExemptions": [
-      "06b"
-    ],
-    "isAmendment": false,
-    "totalOfferingAmount": 39000,
-    "isIndefiniteOffering": false,
-    "totalAmountSold": 39000,
-    "totalRemaining": 0,
-    "minimumInvestmentAccepted": 39000,
-    "totalInvestorsCount": 1,
-    "hasNonAccreditedInvestors": false,
-    "salesCommissions": 0,
-    "findersFees": 0,
-    "relatedPersons": [
-      {
-        "firstName": "HealthTronics",
-        "lastName": "LLC",
-        "relationships": [
-          "Director"
-        ],
-        "relationshipClarification": "Manager",
-        "city": "ROUND ROCK",
-        "stateOrCountry": "TX"
-      }
-    ],
-    "jurisdictionOfInc": "INDIANA",
-    "street1": "1990 STEAM WAY",
-    "street2": "SUITE A102",
-    "city": "ROUND ROCK",
-    "stateOrCountry": "TX",
-    "stateOrCountryDescription": "TEXAS",
-    "zipCode": "78665",
-    "issuerPhone": "5123282892",
-    "revenueRange": "Decline to Disclose",
-    "dateOfFirstSale": "2026-11-16",
-    "slug": "lithotripsy-institute-of-indiana-llc-0001462108-26-000002",
-    "industrySlug": "other-health-care",
     "telemetry": {
-      "resolvedDomain": null,
-      "domainConfidence": "none",
-      "mxProvider": "none",
-      "hasSpf": false,
-      "hasDmarc": false,
-      "detectedAts": "none",
-      "techSignals": []
+      "resolvedDomain": "bright.ai",
+      "domainConfidence": "high",
+      "domainScore": 75,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (bright.ai) (+10)",
+        "HTML contains issuer location (Palo Alto) (+10)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": true,
+      "detectedAts": "careers-page",
+      "techSignals": [
+        "Cloudflare",
+        "Webflow"
+      ],
+      "websiteTitle": "BrightAI | Physical AI for Essential Infrastructure",
+      "httpStatus": 200,
+      "careersUrl": "https://www.bright.ai/careers"
     },
-    "signalScore": 37,
+    "signalScore": 80,
     "signalReasons": [
-      "Operating company (Other Health Care)",
-      "Disclosed $39K capital sold",
-      "Recent first sale (2026-11-16)"
+      "Operating startup (Other Technology)",
+      "Disclosed $85.4M capital sold",
+      "Verified corporate domain (bright.ai)",
+      "Enterprise email (Google Workspace)",
+      "SPF & DMARC email authentication configured",
+      "Public careers page detected"
     ],
-    "enrichedAt": "2026-11-23T10:45:55.527Z"
+    "enrichedAt": "2026-11-23T11:35:22.017Z"
   },
   {
     "accessionNumber": "0002160625-26-000001",
@@ -676,27 +1341,53 @@
     "dateOfFirstSale": "2025-05-01",
     "slug": "luwian-ai-inc-0002160625-26-000001",
     "industrySlug": "other-technology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 12,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2024) (+2)",
+        "Incorporated within 5 years (2024) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
     "telemetry": {
       "resolvedDomain": "luwian.ai",
       "domainConfidence": "high",
-      "httpStatus": 200,
+      "domainScore": 95,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (luwian.ai) (+10)",
+        "HTML contains entity legal-name variant (+15)",
+        "HTML references officer/director Kahraman (+15)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)"
+      ],
       "mxProvider": "google-workspace",
       "hasSpf": false,
       "hasDmarc": true,
       "detectedAts": "none",
       "techSignals": [],
-      "websiteTitle": "Luwian AI – ML Model Development"
+      "websiteTitle": "Luwian AI – ML Model Development",
+      "httpStatus": 200
     },
     "signalScore": 70,
     "signalReasons": [
-      "Operating company (Other Technology)",
+      "Operating startup (Other Technology)",
       "Disclosed $693K capital sold",
       "Recently incorporated (2024)",
       "Verified corporate domain (luwian.ai)",
       "Enterprise email (Google Workspace)",
       "Partial email authentication (DMARC)"
     ],
-    "enrichedAt": "2026-11-23T10:45:56.783Z"
+    "enrichedAt": "2026-11-23T11:35:19.459Z"
   },
   {
     "accessionNumber": "0002165942-26-000001",
@@ -746,23 +1437,54 @@
     "dateOfFirstSale": "2026-11-06",
     "slug": "manifest-financial-inc-0002165942-26-000001",
     "industrySlug": "other-banking-and-financial-services",
-    "telemetry": {
-      "resolvedDomain": null,
-      "domainConfidence": "none",
-      "mxProvider": "none",
-      "hasSpf": false,
-      "hasDmarc": false,
-      "detectedAts": "none",
-      "techSignals": []
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 8,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2023) (+2)",
+        "Incorporated within 5 years (2023) (+1)",
+        "Operating industry (Other Banking and Financial Services) (+1)",
+        "Human executive officer disclosed (+1)"
+      ]
     },
-    "signalScore": 50,
+    "telemetry": {
+      "resolvedDomain": "manifestfinancial.com",
+      "domainConfidence": "high",
+      "domainScore": 70,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (manifestfinancial.com) (+10)",
+        "Industry keyword overlap (Other Banking and Financial Services) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": false,
+      "hasDmarc": true,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare",
+        "Webflow"
+      ],
+      "websiteTitle": "Manifest Financial | Banking Solutions for Creators",
+      "httpStatus": 200
+    },
+    "signalScore": 82,
     "signalReasons": [
-      "Operating company (Other Banking and Financial Services)",
+      "Operating startup (Other Banking and Financial Services)",
       "Disclosed $4.5M capital sold",
       "Recently incorporated (2023)",
-      "Recent first sale (2026-11-06)"
+      "Recent first sale (2026-11-06)",
+      "Verified corporate domain (manifestfinancial.com)",
+      "Enterprise email (Google Workspace)",
+      "Partial email authentication (DMARC)"
     ],
-    "enrichedAt": "2026-11-23T10:45:59.246Z"
+    "enrichedAt": "2026-11-23T11:35:28.054Z"
   },
   {
     "accessionNumber": "0001231919-26-001619",
@@ -873,7 +1595,16 @@
     "telemetry": {
       "resolvedDomain": "perpay.com",
       "domainConfidence": "high",
-      "httpStatus": 200,
+      "domainScore": 85,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (perpay.com) (+10)",
+        "HTML contains entity legal-name variant (+15)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
       "mxProvider": "google-workspace",
       "hasSpf": true,
       "hasDmarc": true,
@@ -883,11 +1614,12 @@
         "Webflow"
       ],
       "websiteTitle": "Perpay | Make your paycheck work harder for you.",
+      "httpStatus": 200,
       "careersUrl": "https://perpay.com/careers"
     },
     "signalScore": 87,
     "signalReasons": [
-      "Operating company (Other Technology)",
+      "Operating startup (Other Technology)",
       "Disclosed $21.7M capital sold",
       "Recent first sale (2026-11-05)",
       "Verified corporate domain (perpay.com)",
@@ -895,99 +1627,20 @@
       "SPF & DMARC email authentication configured",
       "Public careers page detected"
     ],
-    "enrichedAt": "2026-11-23T10:45:59.484Z"
-  },
-  {
-    "accessionNumber": "0002165632-26-000002",
-    "cik": "0002165632",
-    "formType": "D",
-    "filedAt": "2026-11-20T15:35:15-05:00",
-    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2165632/000216563226000002/primary_doc.xml",
-    "entityName": "Engineered Arts Holding Company, Inc.",
-    "entityType": "Corporation",
-    "industryGroupType": "Other Technology",
-    "isPooledInvestmentFund": false,
-    "federalExemptions": [
-      "06b"
-    ],
-    "isAmendment": false,
-    "totalOfferingAmount": 15000000,
-    "isIndefiniteOffering": false,
-    "totalAmountSold": 12000000,
-    "totalRemaining": 3000000,
-    "minimumInvestmentAccepted": 0,
-    "totalInvestorsCount": 10,
-    "hasNonAccreditedInvestors": false,
-    "salesCommissions": 0,
-    "findersFees": 0,
-    "relatedPersons": [
-      {
-        "firstName": "Nicolas",
-        "lastName": "Desmarais",
-        "relationships": [
-          "Executive Officer",
-          "Director"
-        ],
-        "city": "Falmouth",
-        "stateOrCountry": "X0"
-      },
-      {
-        "firstName": "John",
-        "lastName": "Pharr",
-        "relationships": [
-          "Executive Officer"
-        ],
-        "middleName": "S.",
-        "city": "Falmouth",
-        "stateOrCountry": "X0"
-      },
-      {
-        "firstName": "Joseph",
-        "lastName": "Mardini",
-        "relationships": [
-          "Director"
-        ],
-        "city": "Falmouth",
-        "stateOrCountry": "X0"
-      }
-    ],
-    "yearOfInc": "2024",
-    "jurisdictionOfInc": "DELAWARE",
-    "street1": "E1-E3 CHURCH VIEW BUSINESS PARK",
-    "street2": "BICKLAND WATER ROAD",
-    "city": "FALMOUTH",
-    "stateOrCountry": "X0",
-    "stateOrCountryDescription": "UNITED KINGDOM",
-    "zipCode": "TR11 4FZ",
-    "issuerPhone": "667-274-0803",
-    "revenueRange": "Decline to Disclose",
-    "dateOfFirstSale": "2026-11-09",
-    "slug": "engineered-arts-holding-company-inc-0002165632-26-000002",
-    "industrySlug": "other-technology",
-    "telemetry": {
-      "resolvedDomain": "engineeredarts.com",
-      "domainConfidence": "high",
-      "httpStatus": 200,
-      "mxProvider": "google-workspace",
-      "hasSpf": true,
-      "hasDmarc": true,
-      "detectedAts": "none",
-      "techSignals": [
-        "Cloudflare"
-      ],
-      "websiteTitle": "Engineered Arts: Embodied AI Social Humanoid Robots"
-    },
-    "signalScore": 90,
-    "signalReasons": [
-      "Operating company (Other Technology)",
-      "Disclosed $12.0M capital sold",
-      "Recently incorporated (2024)",
-      "Recent first sale (2026-11-09)",
-      "Verified corporate domain (engineeredarts.com)",
-      "Enterprise email (Google Workspace)",
-      "SPF & DMARC email authentication configured"
-    ],
-    "enrichedAt": "2026-11-23T10:46:00.052Z"
+    "enrichedAt": "2026-11-23T11:34:43.632Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 7,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    }
   },
   {
     "accessionNumber": "0002165632-26-000001",
@@ -1059,7 +1712,15 @@
     "telemetry": {
       "resolvedDomain": "engineeredarts.com",
       "domainConfidence": "high",
-      "httpStatus": 200,
+      "domainScore": 70,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (engineeredarts.com) (+10)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
       "mxProvider": "google-workspace",
       "hasSpf": true,
       "hasDmarc": true,
@@ -1067,18 +1728,35 @@
       "techSignals": [
         "Cloudflare"
       ],
-      "websiteTitle": "Engineered Arts: Embodied AI Social Humanoid Robots"
+      "websiteTitle": "Engineered Arts: Embodied AI Social Humanoid Robots",
+      "httpStatus": 200
     },
     "signalScore": 83,
     "signalReasons": [
-      "Operating company (Other Technology)",
+      "Operating startup (Other Technology)",
       "Disclosed $14.5M capital sold",
       "Recently incorporated (2024)",
       "Verified corporate domain (engineeredarts.com)",
       "Enterprise email (Google Workspace)",
       "SPF & DMARC email authentication configured"
     ],
-    "enrichedAt": "2026-11-23T10:46:00.088Z"
+    "enrichedAt": "2026-11-23T11:34:44.578Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 12,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2024) (+2)",
+        "Incorporated within 5 years (2024) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    }
   },
   {
     "accessionNumber": "0002163334-26-000001",
@@ -1154,16 +1832,34 @@
       "hasSpf": false,
       "hasDmarc": false,
       "detectedAts": "none",
-      "techSignals": []
+      "techSignals": [],
+      "domainScore": 0,
+      "domainEvidence": []
     },
     "signalScore": 50,
     "signalReasons": [
-      "Operating company (Other Technology)",
+      "Operating startup (Other Technology)",
       "Disclosed $5.4M capital sold",
       "Recently incorporated (2023)",
       "Recent first sale (2026-09-29)"
     ],
-    "enrichedAt": "2026-11-23T10:46:03.426Z"
+    "enrichedAt": "2026-11-23T11:34:49.290Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 12,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2023) (+2)",
+        "Incorporated within 5 years (2023) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    }
   },
   {
     "accessionNumber": "0002164404-26-000001",
@@ -1225,17 +1921,26 @@
     "telemetry": {
       "resolvedDomain": "tydaltechnologies.com",
       "domainConfidence": "high",
-      "httpStatus": 200,
+      "domainScore": 70,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (tydaltechnologies.com) (+10)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
       "mxProvider": "google-workspace",
       "hasSpf": true,
       "hasDmarc": false,
       "detectedAts": "none",
       "techSignals": [],
-      "websiteTitle": "Tydal Technologies | The Intelligence Layer for America's Working Waterfront"
+      "websiteTitle": "Tydal Technologies | The Intelligence Layer for America's Working Waterfront",
+      "httpStatus": 200
     },
     "signalScore": 82,
     "signalReasons": [
-      "Operating company (Other Technology)",
+      "Operating startup (Other Technology)",
       "Disclosed $2.0M capital sold",
       "Recently incorporated (2025)",
       "Recent first sale (2026-10-22)",
@@ -1243,6 +1948,22 @@
       "Enterprise email (Google Workspace)",
       "Partial email authentication (SPF)"
     ],
-    "enrichedAt": "2026-11-23T10:46:02.945Z"
+    "enrichedAt": "2026-11-23T11:34:51.674Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 12,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2025) (+2)",
+        "Incorporated within 5 years (2025) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    }
   }
 ]
