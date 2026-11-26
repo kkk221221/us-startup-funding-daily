@@ -2,9 +2,9 @@
 
 Automated daily open dataset of newly filed **U.S. SEC Regulation D (Form D / D/A)** startup funding rounds, classified to true operating startups (excluding pooled investment funds, structured finance vehicles, and real estate holding LLCs).
 
-- **Latest Snapshot Date:** `2026-11-25`
-- **Verified Operating Startups Tracked:** **27**
-- **Files:** [`data/2026-11-25.json`](./data/2026-11-25.json) · [`data/latest-operating-filings.csv`](./data/latest-operating-filings.csv)
+- **Latest Snapshot Date:** `2026-11-26`
+- **Verified Operating Startups Tracked:** **32**
+- **Files:** [`data/2026-11-26.json`](./data/2026-11-26.json) · [`data/latest-operating-filings.csv`](./data/latest-operating-filings.csv)
 - **Automated Schedule:** Updated Monday–Friday at 22:15 UTC via GitHub Actions ([`daily-sync.yml`](./.github/workflows/daily-sync.yml))
 
 ## Enriched Operating Startup Filings
@@ -16,6 +16,7 @@ Automated daily open dataset of newly filed **U.S. SEC Regulation D (Form D / D/
 | Perpay, Inc | [perpay.com](https://perpay.com) | $21,718,676 | PA | Other Technology | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/1644247/000123191926001619/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/perpay-inc-0001231919-26-001619) |
 | Dandelion Health Inc. | [dandelionhealth.ai](https://dandelionhealth.ai) | $18,402,073 | NY | Other Health Care | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2015969/000201596926000004/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/dandelion-health-inc-0002015969-26-000004) |
 | Engineered Arts Holding Company, Inc. | [engineeredarts.com](https://engineeredarts.com) | $14,500,000 | X0 | Other Technology | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2165632/000216563226000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/engineered-arts-holding-company-inc-0002165632-26-000001) |
+| Interlune Corp | — | $8,860,500 | WA | Other Technology | D/A | [SEC XML](https://www.sec.gov/Archives/edgar/data/1942463/000194246326000003/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/interlune-corp-0001942463-26-000003) |
 | MAPLE PRIVACY LABS, INC. | — | $5,368,887 | TX | Other Technology | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2163334/000216333426000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/maple-privacy-labs-inc-0002163334-26-000001) |
 | next robot inc | [nextrobot.com](https://nextrobot.com) | $5,109,178 | CA | Other Technology | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2069196/000206919626000002/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/next-robot-inc-0002069196-26-000002) |
 | Manifest Financial, Inc. | [manifestfinancial.com](https://manifestfinancial.com) | $4,500,000 | TX | Other Banking and Financial Services | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2165942/000216594226000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/manifest-financial-inc-0002165942-26-000001) |
@@ -31,11 +32,15 @@ Automated daily open dataset of newly filed **U.S. SEC Regulation D (Form D / D/
 | Cutting Edge Safety, Inc. | — | $500,000 | IL | Other Health Care | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2166800/000216680026000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/cutting-edge-safety-inc-0002166800-26-000001) |
 | Newton Golf Company, Inc. | [newtongolfco.com](https://newtongolfco.com) | $500,000 | CA | Manufacturing | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/1934245/000193424526000004/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/newton-golf-company-inc-0001934245-26-000004) |
 | Blue Spruce Management, Inc. | — | $400,000 | VT | Other | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2166434/000216643426000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/blue-spruce-management-inc-0002166434-26-000001) |
+| AgnitioAI Technologies, Inc. | — | $350,000 | CA | Other Technology | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2167001/000216700126000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/agnitioai-technologies-inc-0002167001-26-000001) |
+| GrittGene Therapeutics Inc. | — | $250,000 | CA | Biotechnology | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2167176/000216717626000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/grittgene-therapeutics-inc-0002167176-26-000001) |
 | Bebemos Inc. | — | $250,000 | CA | Other | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2166927/000216692726000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/bebemos-inc-0002166927-26-000001) |
 | Yaven, Inc. | — | $250,000 | NY | Other Technology | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2146457/000214645726000002/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/yaven-inc-0002146457-26-000002) |
 | CLUBHOUSE CTV, INC. | — | $75,000 | NC | Other | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2163764/000216376426000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/clubhouse-ctv-inc-0002163764-26-000001) |
+| Mise Inc. | — | $50,000 | FL | Other Technology | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2165456/000213471826000122/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/mise-inc-0002134718-26-000122) |
 | SABER Chemical, Inc. | [saberchemical.com](https://saberchemical.com) | $25,000 | IA | Manufacturing | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2166051/000216605126000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/saber-chemical-inc-0002166051-26-000001) |
 | Zamorak Inc. | [zamorak.com](https://zamorak.com) | $15,000 | PA | Other Technology | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2165684/000213471826000120/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/zamorak-inc-0002134718-26-000120) |
+| Tatonka Ventures, Inc. | — | $0 | CO | Manufacturing | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2166925/000216692526000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/tatonka-ventures-inc-0002166925-26-000001) |
 | Riemann Computing Inc. | — | $0 | MI | Computers | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/1760855/000149315226054039/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/riemann-computing-inc-0001493152-26-054039) |
 | Jingling Pockets Ltd Liability Co | — | $0 | NY | Other | D | [SEC XML](https://www.sec.gov/Archives/edgar/data/2165431/000216543126000001/primary_doc.xml) | [Dossier](https://formdpulse.formdpulse.workers.dev/filing/jingling-pockets-ltd-liability-co-0002165431-26-000001) |
 
@@ -43,17 +48,10 @@ Automated daily open dataset of newly filed **U.S. SEC Regulation D (Form D / D/
 
 | Issuer Name | Form | Filed | CIK | SEC Index | Primary XML |
 | --- | --- | --- | --- | --- | --- |
-| Vandelay Wicker 1616 LLC | D | 2026-11-24 | `0002166991` | [Index](https://www.sec.gov/Archives/edgar/data/2166991/000216699126000001/0002166991-26-000001-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2166991/000216699126000001/primary_doc.xml) |
-| Cutting Edge Safety, Inc. | D | 2026-11-24 | `0002166800` | [Index](https://www.sec.gov/Archives/edgar/data/2166800/000216680026000001/0002166800-26-000001-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2166800/000216680026000001/primary_doc.xml) |
-| Vimy Pharmaceuticals Corp. | D | 2026-11-24 | `0002159202` | [Index](https://www.sec.gov/Archives/edgar/data/2159202/000149315226054043/0001493152-26-054043-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2159202/000149315226054043/primary_doc.xml) |
-| Riemann Computing Inc. | D | 2026-11-24 | `0001760855` | [Index](https://www.sec.gov/Archives/edgar/data/1760855/000149315226054039/0001493152-26-054039-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/1760855/000149315226054039/primary_doc.xml) |
-| Continuum Holdings, Inc. | D/A | 2026-11-24 | `0002093639` | [Index](https://www.sec.gov/Archives/edgar/data/2093639/000209363926000001/0002093639-26-000001-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2093639/000209363926000001/primary_doc.xml) |
-| IREX VI Retail DST | D/A | 2026-11-24 | `0002163630` | [Index](https://www.sec.gov/Archives/edgar/data/2163630/000216363026000003/0002163630-26-000003-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2163630/000216363026000003/primary_doc.xml) |
-| Nitro Financing, LP | D/A | 2026-11-24 | `0002159383` | [Index](https://www.sec.gov/Archives/edgar/data/2159383/000215938326000002/0002159383-26-000002-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2159383/000215938326000002/primary_doc.xml) |
-| Lukrom REIT LLC | D/A | 2026-11-24 | `0002006033` | [Index](https://www.sec.gov/Archives/edgar/data/2006033/000200603326000003/0002006033-26-000003-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2006033/000200603326000003/primary_doc.xml) |
-| Bebemos Inc. | D | 2026-11-24 | `0002166927` | [Index](https://www.sec.gov/Archives/edgar/data/2166927/000216692726000001/0002166927-26-000001-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2166927/000216692726000001/primary_doc.xml) |
-| Gradies, Inc. | D | 2026-11-24 | `0002166631` | [Index](https://www.sec.gov/Archives/edgar/data/2166631/000216663126000001/0002166631-26-000001-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2166631/000216663126000001/primary_doc.xml) |
-| CorVita, Inc. | D | 2026-11-24 | `0002051333` | [Index](https://www.sec.gov/Archives/edgar/data/2051333/000205133326000006/0002051333-26-000006-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2051333/000205133326000006/primary_doc.xml) |
+| AgnitioAI Technologies, Inc. | D | 2026-11-25 | `0002167001` | [Index](https://www.sec.gov/Archives/edgar/data/2167001/000216700126000001/0002167001-26-000001-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2167001/000216700126000001/primary_doc.xml) |
+| Interlune Corp | D/A | 2026-11-25 | `0001942463` | [Index](https://www.sec.gov/Archives/edgar/data/1942463/000194246326000003/0001942463-26-000003-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/1942463/000194246326000003/primary_doc.xml) |
+| GrittGene Therapeutics Inc. | D | 2026-11-25 | `0002167176` | [Index](https://www.sec.gov/Archives/edgar/data/2167176/000216717626000001/0002167176-26-000001-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2167176/000216717626000001/primary_doc.xml) |
+| Mise Inc. | D | 2026-11-25 | `0002165456` | [Index](https://www.sec.gov/Archives/edgar/data/2165456/000213471826000122/0002134718-26-000122-index.htm) | [XML](https://www.sec.gov/Archives/edgar/data/2165456/000213471826000122/primary_doc.xml) |
 
 ## Tools & API
 

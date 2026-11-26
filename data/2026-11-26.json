@@ -1,0 +1,3233 @@
+[
+  {
+    "accessionNumber": "0002167001-26-000001",
+    "slug": "agnitioai-technologies-inc-0002167001-26-000001",
+    "cik": "0002167001",
+    "formType": "D",
+    "filedAt": "2026-11-25T17:27:21-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2167001/000216700126000001/primary_doc.xml",
+    "entityName": "AgnitioAI Technologies, Inc.",
+    "entityType": "Corporation",
+    "yearOfInc": "2024",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "2261 MARKET STREET",
+    "city": "SAN FRANCISCO",
+    "stateOrCountry": "CA",
+    "zipCode": "94114",
+    "issuerPhone": "415 417 2074",
+    "industryGroupType": "Other Technology",
+    "industrySlug": "other-technology",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "$1,000,001 - $5,000,000",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-10-28",
+    "totalOfferingAmount": 2000000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 350000,
+    "totalRemaining": 1650000,
+    "minimumInvestmentAccepted": 50000,
+    "totalInvestorsCount": 5,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Eric",
+        "lastName": "Shaffer",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "city": "San Francisco",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 45,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $350K capital sold",
+      "Recently incorporated (2024)",
+      "Recent first sale (2026-10-28)"
+    ],
+    "enrichedAt": "2026-11-26T04:00:06.472Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 45,
+      "reasons": [
+        "Operating startup (Other Technology)",
+        "Disclosed $350K capital sold",
+        "Recently incorporated (2024)",
+        "Recent first sale (2026-10-28)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0001942463-26-000003",
+    "slug": "interlune-corp-0001942463-26-000003",
+    "cik": "0001942463",
+    "formType": "D/A",
+    "filedAt": "2026-11-25T17:00:09-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/1942463/000194246326000003/primary_doc.xml",
+    "entityName": "Interlune Corp",
+    "entityType": "Corporation",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "5601 6TH AVE S",
+    "city": "SEATTLE",
+    "stateOrCountry": "WA",
+    "zipCode": "98108",
+    "issuerPhone": "408-981-3686",
+    "industryGroupType": "Other Technology",
+    "industrySlug": "other-technology",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": true,
+    "dateOfFirstSale": "2026-08-31",
+    "totalOfferingAmount": 8860500,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 8860500,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 6,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Robert",
+        "lastName": "Meyerson",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "E.",
+        "city": "Seattle",
+        "stateOrCountry": "WA"
+      },
+      {
+        "firstName": "H.",
+        "lastName": "Hornsby",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "Indra",
+        "city": "Seattle",
+        "stateOrCountry": "WA"
+      },
+      {
+        "firstName": "Katelin",
+        "lastName": "Holloway",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Seattle",
+        "stateOrCountry": "WA"
+      },
+      {
+        "firstName": "Prateek",
+        "lastName": "Lal",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "city": "Seattle",
+        "stateOrCountry": "WA"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 42,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $8.9M capital sold",
+      "Recent first sale (2026-08-31)"
+    ],
+    "enrichedAt": "2026-11-26T04:00:06.373Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 42,
+      "reasons": [
+        "Operating startup (Other Technology)",
+        "Disclosed $8.9M capital sold",
+        "Recent first sale (2026-08-31)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002167176-26-000001",
+    "slug": "grittgene-therapeutics-inc-0002167176-26-000001",
+    "cik": "0002167176",
+    "formType": "D",
+    "filedAt": "2026-11-25T16:28:07-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2167176/000216717626000001/primary_doc.xml",
+    "entityName": "GrittGene Therapeutics Inc.",
+    "entityType": "Corporation",
+    "yearOfInc": "2022",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "686 S. FAIR OAKS AVE.",
+    "city": "PASADENA",
+    "stateOrCountry": "CA",
+    "zipCode": "91105",
+    "issuerPhone": "7475660001",
+    "industryGroupType": "Biotechnology",
+    "industrySlug": "biotechnology",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "No Revenues",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-11-17",
+    "totalOfferingAmount": 1000000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 250000,
+    "totalRemaining": 750000,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 1,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Suren",
+        "lastName": "Ambarchyan",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Pasadena",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Liana",
+        "lastName": "Avetisyan",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Pasadena",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 37,
+    "signalReasons": [
+      "Operating startup (Biotechnology)",
+      "Disclosed $250K capital sold",
+      "Recent first sale (2026-11-17)"
+    ],
+    "enrichedAt": "2026-11-25T22:00:06.070Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 37,
+      "reasons": [
+        "Operating startup (Biotechnology)",
+        "Disclosed $250K capital sold",
+        "Recent first sale (2026-11-17)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002134718-26-000122",
+    "slug": "mise-inc-0002134718-26-000122",
+    "cik": "0002165456",
+    "formType": "D",
+    "filedAt": "2026-11-25T16:22:47-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2165456/000213471826000122/primary_doc.xml",
+    "entityName": "Mise Inc.",
+    "entityType": "Corporation",
+    "yearOfInc": "2025",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "7901 4TH ST. NORTH #9341",
+    "city": "ST. PETERSBURG",
+    "stateOrCountry": "FL",
+    "zipCode": "33702",
+    "issuerPhone": "(770) 845-3307",
+    "industryGroupType": "Other Technology",
+    "industrySlug": "other-technology",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-02-15",
+    "totalOfferingAmount": 50000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 50000,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 50000,
+    "totalInvestorsCount": 1,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Jonathan",
+        "lastName": "Flaig",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Santa Rosa Beach",
+        "stateOrCountry": "FL"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 38,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $50K capital sold",
+      "Recently incorporated (2025)"
+    ],
+    "enrichedAt": "2026-11-25T22:00:06.187Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 38,
+      "reasons": [
+        "Operating startup (Other Technology)",
+        "Disclosed $50K capital sold",
+        "Recently incorporated (2025)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002166925-26-000001",
+    "slug": "tatonka-ventures-inc-0002166925-26-000001",
+    "cik": "0002166925",
+    "formType": "D",
+    "filedAt": "2026-11-25T16:16:30-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2166925/000216692526000001/primary_doc.xml",
+    "entityName": "Tatonka Ventures, Inc.",
+    "entityType": "Corporation",
+    "yearOfInc": "2025",
+    "jurisdictionOfInc": "COLORADO",
+    "street1": "10375 PARK MEADOWS DR",
+    "city": "LONE TREE",
+    "stateOrCountry": "CO",
+    "zipCode": "80124",
+    "issuerPhone": "303-515-7151",
+    "industryGroupType": "Manufacturing",
+    "industrySlug": "manufacturing",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06c"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 2500000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 0,
+    "totalRemaining": 2500000,
+    "minimumInvestmentAccepted": 250000,
+    "totalInvestorsCount": 0,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Carol",
+        "lastName": "Hansen",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "S",
+        "relationshipClarification": "President and CEO",
+        "city": "Lone Tree",
+        "stateOrCountry": "CO"
+      },
+      {
+        "firstName": "Eric",
+        "lastName": "Gorka",
+        "relationships": [
+          "Director"
+        ],
+        "relationshipClarification": "Vice President",
+        "city": "Lone Tree",
+        "stateOrCountry": "CO"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 28,
+    "signalReasons": [
+      "Operating startup (Manufacturing)",
+      "Recently incorporated (2025)"
+    ],
+    "enrichedAt": "2026-11-25T22:00:08.114Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 28,
+      "reasons": [
+        "Operating startup (Manufacturing)",
+        "Recently incorporated (2025)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002166800-26-000001",
+    "slug": "cutting-edge-safety-inc-0002166800-26-000001",
+    "cik": "0002166800",
+    "formType": "D",
+    "filedAt": "2026-11-24T17:18:04-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2166800/000216680026000001/primary_doc.xml",
+    "entityName": "Cutting Edge Safety, Inc.",
+    "entityType": "Corporation",
+    "yearOfInc": "2024",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "3 GRANT SQUARE, STE 154",
+    "city": "HINSDALE",
+    "stateOrCountry": "IL",
+    "zipCode": "60521",
+    "issuerPhone": "(908) 229-3989",
+    "industryGroupType": "Other Health Care",
+    "industrySlug": "other-health-care",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-11-10",
+    "totalOfferingAmount": 500000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 500000,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 14,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Philip",
+        "lastName": "Croxford",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "HINSDALE",
+        "stateOrCountry": "IL"
+      },
+      {
+        "firstName": "James",
+        "lastName": "Millis",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "Michael",
+        "city": "HINSDALE",
+        "stateOrCountry": "IL"
+      },
+      {
+        "firstName": "Terry",
+        "lastName": "Winters",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "HINSDALE",
+        "stateOrCountry": "IL"
+      },
+      {
+        "firstName": "Quan",
+        "lastName": "Zhang",
+        "relationships": [
+          "Director"
+        ],
+        "city": "HINSDALE",
+        "stateOrCountry": "IL"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 45,
+    "signalReasons": [
+      "Operating startup (Other Health Care)",
+      "Disclosed $500K capital sold",
+      "Recently incorporated (2024)",
+      "Recent first sale (2026-11-10)"
+    ],
+    "enrichedAt": "2026-11-25T04:00:06.044Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 45,
+      "reasons": [
+        "Operating startup (Other Health Care)",
+        "Disclosed $500K capital sold",
+        "Recently incorporated (2024)",
+        "Recent first sale (2026-11-10)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0001493152-26-054043",
+    "slug": "vimy-pharmaceuticals-corp-0001493152-26-054043",
+    "cik": "0002159202",
+    "formType": "D",
+    "filedAt": "2026-11-24T17:05:41-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2159202/000149315226054043/primary_doc.xml",
+    "entityName": "Vimy Pharmaceuticals Corp.",
+    "entityType": "Corporation",
+    "yearOfInc": "2021",
+    "jurisdictionOfInc": "BRITISH COLUMBIA, CANADA",
+    "street1": "2 BLOOR STREET WEST",
+    "city": "TORONTO",
+    "stateOrCountry": "A6",
+    "zipCode": "M4W1J5",
+    "issuerPhone": "416-554-8412",
+    "industryGroupType": "Pharmaceuticals",
+    "industrySlug": "pharmaceuticals",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-11-12",
+    "totalOfferingAmount": 1472743,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 1472743,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 10,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "David",
+        "lastName": "Suchon",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "John",
+        "relationshipClarification": "Chief Executive Officer",
+        "city": "Toronto",
+        "stateOrCountry": "A6"
+      },
+      {
+        "firstName": "Farris",
+        "lastName": "Smith",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "relationshipClarification": "President",
+        "city": "Toronto",
+        "stateOrCountry": "A6"
+      },
+      {
+        "firstName": "Darryl",
+        "lastName": "Firsten",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Toronto",
+        "stateOrCountry": "A6"
+      },
+      {
+        "firstName": "Riccardo",
+        "lastName": "Trecroce",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Toronto",
+        "stateOrCountry": "A6"
+      },
+      {
+        "firstName": "Christopher",
+        "lastName": "Burkett",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "relationshipClarification": "Chief Operating Officer, Corporate Secretary and General Counsel",
+        "city": "Toronto",
+        "stateOrCountry": "A6"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 42,
+    "signalReasons": [
+      "Operating startup (Pharmaceuticals)",
+      "Disclosed $1.5M capital sold",
+      "Recent first sale (2026-11-12)"
+    ],
+    "enrichedAt": "2026-11-25T04:00:06.038Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 42,
+      "reasons": [
+        "Operating startup (Pharmaceuticals)",
+        "Disclosed $1.5M capital sold",
+        "Recent first sale (2026-11-12)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0001493152-26-054039",
+    "slug": "riemann-computing-inc-0001493152-26-054039",
+    "cik": "0001760855",
+    "formType": "D",
+    "filedAt": "2026-11-24T17:03:22-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/1760855/000149315226054039/primary_doc.xml",
+    "entityName": "Riemann Computing Inc.",
+    "entityType": "Corporation",
+    "jurisdictionOfInc": "MICHIGAN",
+    "street1": "801 W BIG BEAVER RD.",
+    "city": "TROY",
+    "stateOrCountry": "MI",
+    "zipCode": "48084",
+    "issuerPhone": "248-238-8245",
+    "industryGroupType": "Computers",
+    "industrySlug": "computers",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "$1 - $1,000,000",
+    "federalExemptions": [
+      "06c"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 3500000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 0,
+    "totalRemaining": 3500000,
+    "minimumInvestmentAccepted": 50000,
+    "totalInvestorsCount": 0,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 50000,
+    "findersFees": 75000,
+    "relatedPersons": [
+      {
+        "firstName": "Andrew",
+        "lastName": "Kamal",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "Magdy",
+        "relationshipClarification": "Founder and CEO; confirm promoter status",
+        "city": "Troy",
+        "stateOrCountry": "MI"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 20,
+    "signalReasons": [
+      "Operating startup (Computers)"
+    ],
+    "enrichedAt": "2026-11-25T04:00:06.095Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 20,
+      "reasons": [
+        "Operating startup (Computers)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002093639-26-000001",
+    "slug": "continuum-holdings-inc-0002093639-26-000001",
+    "cik": "0002093639",
+    "formType": "D/A",
+    "filedAt": "2026-11-24T16:59:12-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2093639/000209363926000001/primary_doc.xml",
+    "entityName": "Continuum Holdings, Inc.",
+    "entityType": "Corporation",
+    "yearOfInc": "2025",
+    "jurisdictionOfInc": "CALIFORNIA",
+    "street1": "1094 CUDAHY PLACE",
+    "city": "SAN DIEGO",
+    "stateOrCountry": "CA",
+    "zipCode": "92110",
+    "issuerPhone": "8585831838",
+    "industryGroupType": "Other Banking and Financial Services",
+    "industrySlug": "other-banking-and-financial-services",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06c"
+    ],
+    "isAmendment": true,
+    "dateOfFirstSale": "2025-10-08",
+    "totalOfferingAmount": null,
+    "isIndefiniteOffering": true,
+    "totalAmountSold": 1545000,
+    "totalRemaining": null,
+    "minimumInvestmentAccepted": 100000,
+    "totalInvestorsCount": 11,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "John",
+        "lastName": "Owens",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "Richard",
+        "city": "San Diego",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "David",
+        "lastName": "Rodman",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "Alan",
+        "city": "San Diego",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 43,
+    "signalReasons": [
+      "Operating startup (Other Banking and Financial Services)",
+      "Disclosed $1.5M capital sold",
+      "Recently incorporated (2025)"
+    ],
+    "enrichedAt": "2026-11-25T04:00:06.029Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 43,
+      "reasons": [
+        "Operating startup (Other Banking and Financial Services)",
+        "Disclosed $1.5M capital sold",
+        "Recently incorporated (2025)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002166927-26-000001",
+    "slug": "bebemos-inc-0002166927-26-000001",
+    "cik": "0002166927",
+    "formType": "D",
+    "filedAt": "2026-11-24T16:50:36-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2166927/000216692726000001/primary_doc.xml",
+    "entityName": "Bebemos Inc.",
+    "entityType": "Corporation",
+    "yearOfInc": "2024",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "1245 CANTON CT.",
+    "city": "ENCINITAS",
+    "stateOrCountry": "CA",
+    "zipCode": "92024",
+    "issuerPhone": "6197081318",
+    "industryGroupType": "Other",
+    "industrySlug": "other",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-11-11",
+    "totalOfferingAmount": 11905000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 250000,
+    "totalRemaining": 11655000,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 1,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Preston",
+        "lastName": "Caffrey",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "John",
+        "relationshipClarification": "Chief Executive Officer",
+        "city": "Encinitas",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Jonathan",
+        "lastName": "Maddux",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "David",
+        "relationshipClarification": "Chief Financial Officer",
+        "city": "Encinitas",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Jay",
+        "lastName": "Ressler",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "middleName": "Markee",
+        "relationshipClarification": "Chief Operating Officer",
+        "city": "Encinitas",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 45,
+    "signalReasons": [
+      "Operating startup (Other)",
+      "Disclosed $250K capital sold",
+      "Recently incorporated (2024)",
+      "Recent first sale (2026-11-11)"
+    ],
+    "enrichedAt": "2026-11-24T22:00:06.746Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 45,
+      "reasons": [
+        "Operating startup (Other)",
+        "Disclosed $250K capital sold",
+        "Recently incorporated (2024)",
+        "Recent first sale (2026-11-11)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002165431-26-000001",
+    "slug": "jingling-pockets-ltd-liability-co-0002165431-26-000001",
+    "cik": "0002165431",
+    "formType": "D",
+    "filedAt": "2026-11-23T17:22:57-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2165431/000216543126000001/primary_doc.xml",
+    "entityName": "Jingling Pockets Ltd Liability Co",
+    "entityType": "Limited Liability Company",
+    "yearOfInc": "2026",
+    "jurisdictionOfInc": "NEW YORK",
+    "street1": "C/O JOEY PARNES PRODUCTIONS LLC",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY",
+    "zipCode": "10036",
+    "issuerPhone": "212-510-8564",
+    "industryGroupType": "Other",
+    "industrySlug": "other",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "No Revenues",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 3000000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 0,
+    "totalRemaining": 3000000,
+    "minimumInvestmentAccepted": 25000,
+    "totalInvestorsCount": 0,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Joseph",
+        "lastName": "Parnes",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "William",
+        "relationshipClarification": "Manager of Joey Parnes Productions LLC, Managing Member of Issuer",
+        "city": "New York",
+        "stateOrCountry": "NY"
+      },
+      {
+        "firstName": "Carson",
+        "lastName": "Gleberman",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "relationshipClarification": "Managing Member of Issuer",
+        "city": "New York",
+        "stateOrCountry": "NY"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 28,
+    "signalReasons": [
+      "Operating startup (Other)",
+      "Recently incorporated (2026)"
+    ],
+    "enrichedAt": "2026-11-24T06:00:07.108Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 28,
+      "reasons": [
+        "Operating startup (Other)",
+        "Recently incorporated (2026)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002163764-26-000001",
+    "slug": "clubhouse-ctv-inc-0002163764-26-000001",
+    "cik": "0002163764",
+    "formType": "D",
+    "filedAt": "2026-11-23T17:20:12-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2163764/000216376426000001/primary_doc.xml",
+    "entityName": "CLUBHOUSE CTV, INC.",
+    "entityType": "Corporation",
+    "yearOfInc": "2026",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "8 MCCOOL COURT",
+    "city": "DURHAM",
+    "stateOrCountry": "NC",
+    "zipCode": "27703",
+    "issuerPhone": "919-213-9991",
+    "industryGroupType": "Other",
+    "industrySlug": "other",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-11-09",
+    "totalOfferingAmount": 4000000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 75000,
+    "totalRemaining": 3925000,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 1,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "William",
+        "lastName": "Garrity",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Durham",
+        "stateOrCountry": "NC"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 45,
+    "signalReasons": [
+      "Operating startup (Other)",
+      "Disclosed $75K capital sold",
+      "Recently incorporated (2026)",
+      "Recent first sale (2026-11-09)"
+    ],
+    "enrichedAt": "2026-11-24T06:00:07.169Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 45,
+      "reasons": [
+        "Operating startup (Other)",
+        "Disclosed $75K capital sold",
+        "Recently incorporated (2026)",
+        "Recent first sale (2026-11-09)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002146457-26-000002",
+    "slug": "yaven-inc-0002146457-26-000002",
+    "cik": "0002146457",
+    "formType": "D",
+    "filedAt": "2026-11-23T17:07:52-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2146457/000214645726000002/primary_doc.xml",
+    "entityName": "Yaven, Inc.",
+    "entityType": "Corporation",
+    "yearOfInc": "2026",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "169 MADISON AVE STE 31950",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY",
+    "zipCode": "10016",
+    "issuerPhone": "6283383898",
+    "industryGroupType": "Other Technology",
+    "industrySlug": "other-technology",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "No Revenues",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-09-16",
+    "totalOfferingAmount": 500000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 250000,
+    "totalRemaining": 250000,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 1,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Nicholas",
+        "lastName": "Price",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "Alexander",
+        "relationshipClarification": "I am secretary and director of Yaven, Inc.",
+        "city": "Sheffield",
+        "stateOrCountry": "X0"
+      },
+      {
+        "firstName": "Bettina",
+        "lastName": "Sosa Rohl",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "relationshipClarification": "CEO.",
+        "city": "London",
+        "stateOrCountry": "X0"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 45,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $250K capital sold",
+      "Recently incorporated (2026)",
+      "Recent first sale (2026-09-16)"
+    ],
+    "enrichedAt": "2026-11-24T06:00:07.092Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 45,
+      "reasons": [
+        "Operating startup (Other Technology)",
+        "Disclosed $250K capital sold",
+        "Recently incorporated (2026)",
+        "Recent first sale (2026-09-16)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0001737271-26-000001",
+    "slug": "obsidian-sensors-inc-0001737271-26-000001",
+    "cik": "0001737271",
+    "formType": "D",
+    "filedAt": "2026-11-23T17:06:49-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/1737271/000173727126000001/primary_doc.xml",
+    "entityName": "Obsidian Sensors, Inc.",
+    "entityType": "Corporation",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "5754 Pacific Center Boulevard, Suite 201",
+    "city": "San Diego",
+    "stateOrCountry": "CA",
+    "zipCode": "92121",
+    "issuerPhone": "858-500-6050",
+    "industryGroupType": "Other Technology",
+    "industrySlug": "other-technology",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-11-06",
+    "totalOfferingAmount": 56366841,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 41266720,
+    "totalRemaining": 15100121,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 26,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "John",
+        "lastName": "Hong",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "San Diego",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Tallis",
+        "lastName": "Chang",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "San Diego",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Sanjay",
+        "lastName": "Jha",
+        "relationships": [
+          "Director"
+        ],
+        "city": "San Diego",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0
+    },
+    "signalScore": 47,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $41.3M capital sold",
+      "Recent first sale (2026-11-06)"
+    ],
+    "enrichedAt": "2026-11-24T06:00:07.092Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 47,
+      "reasons": [
+        "Operating startup (Other Technology)",
+        "Disclosed $41.3M capital sold",
+        "Recent first sale (2026-11-06)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002166374-26-000001",
+    "cik": "0002166374",
+    "formType": "D",
+    "filedAt": "2026-11-20T20:33:43-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2166374/000216637426000001/primary_doc.xml",
+    "entityName": "Feedback Technologies, Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Technology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": null,
+    "isIndefiniteOffering": true,
+    "totalAmountSold": 1250000,
+    "totalRemaining": null,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 2,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Estella",
+        "lastName": "Zhou",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Menlo Park",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Jakub",
+        "lastName": "Smekal",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Menlo Park",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "yearOfInc": "2026",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "15 STOWE LN",
+    "city": "MENLO PARK",
+    "stateOrCountry": "CA",
+    "stateOrCountryDescription": "CALIFORNIA",
+    "zipCode": "94025",
+    "issuerPhone": "5109362646",
+    "revenueRange": "No Revenues",
+    "dateOfFirstSale": "2026-11-09",
+    "slug": "feedback-technologies-inc-0002166374-26-000001",
+    "industrySlug": "other-technology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 13,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2026) (+2)",
+        "Incorporated within 5 years (2026) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Early-stage revenue range (No Revenues) (+1)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "feedback.com",
+      "domainConfidence": "medium",
+      "domainScore": 45,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (feedback.com) (+10)",
+        "Canonical .com candidate (+5)",
+        "Homonym guard: brand match without industry/person/location overlap (-10)"
+      ],
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ],
+      "websiteTitle": "Feedback.com · Coming Soon",
+      "httpStatus": 200
+    },
+    "signalScore": 62,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $1.3M capital sold",
+      "Recently incorporated (2026)",
+      "Recent first sale (2026-11-09)",
+      "Probable corporate domain (feedback.com)"
+    ],
+    "enrichedAt": "2026-11-23T11:35:15.792Z"
+  },
+  {
+    "accessionNumber": "0002120054-26-000004",
+    "cik": "0002120054",
+    "formType": "D",
+    "filedAt": "2026-11-20T20:11:04-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2120054/000212005426000004/primary_doc.xml",
+    "entityName": "Kaliber Labs Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Health Care",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 3609344,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 3609344,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 17,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Ray",
+        "lastName": "Rahman",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "San Mateo",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Paul",
+        "lastName": "Gabos",
+        "relationships": [
+          "Director"
+        ],
+        "middleName": "G.",
+        "city": "San Mateo",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "900 CONCAR DRIVE",
+    "city": "SAN MATEO",
+    "stateOrCountry": "CA",
+    "stateOrCountryDescription": "CALIFORNIA",
+    "zipCode": "94402",
+    "issuerPhone": "917-399-5009",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2021-01-08",
+    "slug": "kaliber-labs-inc-0002120054-26-000004",
+    "industrySlug": "other-health-care",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 8,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Operating industry (Other Health Care) (+1)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "kaliber.ai",
+      "domainConfidence": "high",
+      "domainScore": 75,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (kaliber.ai) (+10)",
+        "HTML contains entity legal-name variant (+15)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "websiteTitle": "Kaliber · Applied AI, from research to reality",
+      "httpStatus": 200
+    },
+    "signalScore": 65,
+    "signalReasons": [
+      "Operating startup (Other Health Care)",
+      "Disclosed $3.6M capital sold",
+      "Verified corporate domain (kaliber.ai)",
+      "Enterprise email (Google Workspace)"
+    ],
+    "enrichedAt": "2026-11-23T11:35:11.778Z"
+  },
+  {
+    "accessionNumber": "0002015969-26-000004",
+    "cik": "0002015969",
+    "formType": "D",
+    "filedAt": "2026-11-20T19:30:07-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2015969/000201596926000004/primary_doc.xml",
+    "entityName": "Dandelion Health Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Health Care",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 18402074,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 18402073,
+    "totalRemaining": 1,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 9,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Elliott",
+        "lastName": "Green",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "GLEN COVE",
+        "stateOrCountry": "NY"
+      },
+      {
+        "firstName": "Niyum",
+        "lastName": "Gandhi",
+        "relationships": [
+          "Director"
+        ],
+        "city": "GLEN COVE",
+        "stateOrCountry": "NY"
+      },
+      {
+        "firstName": "Sendhil",
+        "lastName": "Mullainathan",
+        "relationships": [
+          "Director"
+        ],
+        "city": "GLEN COVE",
+        "stateOrCountry": "NY"
+      },
+      {
+        "firstName": "Sam",
+        "lastName": "Toole",
+        "relationships": [
+          "Director"
+        ],
+        "city": "GLEN COVE",
+        "stateOrCountry": "NY"
+      },
+      {
+        "firstName": "Aman",
+        "lastName": "Mahajan",
+        "relationships": [
+          "Director"
+        ],
+        "city": "GLEN COVE",
+        "stateOrCountry": "NY"
+      }
+    ],
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "5 BREWSTER STREET #2048",
+    "city": "GLEN COVE",
+    "stateOrCountry": "NY",
+    "stateOrCountryDescription": "NEW YORK",
+    "zipCode": "11542",
+    "issuerPhone": "(201) 472-0271",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-02-09",
+    "slug": "dandelion-health-inc-0002015969-26-000004",
+    "industrySlug": "other-health-care",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 8,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Operating industry (Other Health Care) (+1)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "dandelionhealth.ai",
+      "domainConfidence": "high",
+      "domainScore": 80,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (dandelionhealth.ai) (+10)",
+        "HTML contains entity legal-name variant (+15)",
+        "Industry keyword overlap (Other Health Care) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": true,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ],
+      "websiteTitle": "Dandelion Health | Clinical intelligence for life sciences",
+      "httpStatus": 200
+    },
+    "signalScore": 75,
+    "signalReasons": [
+      "Operating startup (Other Health Care)",
+      "Disclosed $18.4M capital sold",
+      "Verified corporate domain (dandelionhealth.ai)",
+      "Enterprise email (Google Workspace)",
+      "SPF & DMARC email authentication configured"
+    ],
+    "enrichedAt": "2026-11-23T11:35:19.284Z"
+  },
+  {
+    "accessionNumber": "0002069196-26-000002",
+    "cik": "0002069196",
+    "formType": "D",
+    "filedAt": "2026-11-20T18:47:32-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2069196/000206919626000002/primary_doc.xml",
+    "entityName": "next robot inc",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Technology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 5109178,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 5109178,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 10000,
+    "totalInvestorsCount": 7,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Zhenyu",
+        "lastName": "Huang",
+        "relationships": [
+          "Executive Officer",
+          "Director",
+          "Promoter"
+        ],
+        "city": "CHINO HILLS",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "yearOfInc": "2023",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "15920 POMONA RINCON RD",
+    "street2": "UNIT 5101",
+    "city": "CHINO HILLS",
+    "stateOrCountry": "CA",
+    "stateOrCountryDescription": "CALIFORNIA",
+    "zipCode": "91709",
+    "issuerPhone": "626-905-1999",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-05-11",
+    "slug": "next-robot-inc-0002069196-26-000002",
+    "industrySlug": "other-technology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 9,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2023) (+2)",
+        "Incorporated within 5 years (2023) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Human executive officer disclosed (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "nextrobot.com",
+      "domainConfidence": "high",
+      "domainScore": 70,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (nextrobot.com) (+10)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ],
+      "websiteTitle": "Next Robot - Next-Level Culinary Automation",
+      "httpStatus": 200
+    },
+    "signalScore": 75,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $5.1M capital sold",
+      "Recently incorporated (2023)",
+      "Verified corporate domain (nextrobot.com)",
+      "Enterprise email (Google Workspace)",
+      "Partial email authentication (SPF)"
+    ],
+    "enrichedAt": "2026-11-23T11:35:16.453Z"
+  },
+  {
+    "accessionNumber": "0002166051-26-000001",
+    "cik": "0002166051",
+    "formType": "D",
+    "filedAt": "2026-11-20T18:25:45-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2166051/000216605126000001/primary_doc.xml",
+    "entityName": "SABER Chemical, Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Manufacturing",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 25000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 25000,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 25000,
+    "totalInvestorsCount": 1,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Baker",
+        "lastName": "Kuehl",
+        "relationships": [
+          "Executive Officer",
+          "Director",
+          "Promoter"
+        ],
+        "middleName": "Ward",
+        "relationshipClarification": "President and CEO; director; founder.",
+        "city": "Ames",
+        "stateOrCountry": "IA"
+      },
+      {
+        "firstName": "Eric",
+        "lastName": "Cochran",
+        "relationships": [
+          "Director",
+          "Promoter"
+        ],
+        "middleName": "William",
+        "relationshipClarification": "Treasurer; director; founder.",
+        "city": "Ames",
+        "stateOrCountry": "IA"
+      },
+      {
+        "firstName": "Vivek",
+        "lastName": "Garg",
+        "relationships": [
+          "Director",
+          "Promoter"
+        ],
+        "relationshipClarification": "Vice-President; director; founder.",
+        "city": "Ames",
+        "stateOrCountry": "IA"
+      },
+      {
+        "firstName": "Michael",
+        "lastName": "Forrester",
+        "relationships": [
+          "Director",
+          "Promoter"
+        ],
+        "middleName": "John",
+        "relationshipClarification": "Secretary; director; founder.",
+        "city": "Ames",
+        "stateOrCountry": "IA"
+      }
+    ],
+    "yearOfInc": "2025",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "3115 PERIDOT AVE",
+    "street2": "APT 316",
+    "city": "AMES",
+    "stateOrCountry": "IA",
+    "stateOrCountryDescription": "IOWA",
+    "zipCode": "50010",
+    "issuerPhone": "5152406139",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-11-20",
+    "slug": "saber-chemical-inc-0002166051-26-000001",
+    "industrySlug": "manufacturing",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 9,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2025) (+2)",
+        "Incorporated within 5 years (2025) (+1)",
+        "Operating industry (Manufacturing) (+1)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "saberchemical.com",
+      "domainConfidence": "high",
+      "domainScore": 95,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (saberchemical.com) (+10)",
+        "HTML contains entity legal-name variant (+15)",
+        "HTML contains issuer location (IOWA) (+10)",
+        "Industry keyword overlap (Manufacturing) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": true,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ],
+      "websiteTitle": "Compostable Impact Modifier for Tough PLA | SABER Chemical | SABER Chemical",
+      "httpStatus": 200
+    },
+    "signalScore": 80,
+    "signalReasons": [
+      "Operating startup (Manufacturing)",
+      "Disclosed $25K capital sold",
+      "Recently incorporated (2025)",
+      "Recent first sale (2026-11-20)",
+      "Verified corporate domain (saberchemical.com)",
+      "Enterprise email (Google Workspace)",
+      "SPF & DMARC email authentication configured"
+    ],
+    "enrichedAt": "2026-11-23T11:35:14.245Z"
+  },
+  {
+    "accessionNumber": "0002134718-26-000120",
+    "cik": "0002165684",
+    "formType": "D",
+    "filedAt": "2026-11-20T17:48:59-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2165684/000213471826000120/primary_doc.xml",
+    "entityName": "Zamorak Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Technology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 1345000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 15000,
+    "totalRemaining": 1330000,
+    "minimumInvestmentAccepted": 5000,
+    "totalInvestorsCount": 3,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Enthanu",
+        "lastName": "Moos",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "Mitchell",
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      },
+      {
+        "firstName": "Joseph",
+        "lastName": "Choomno",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "middleName": "Moos",
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      },
+      {
+        "firstName": "Geddes",
+        "lastName": "Graeme",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "middleName": "Macklaine Ferguson",
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      }
+    ],
+    "yearOfInc": "2026",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "5115 HADFIELD STREET",
+    "city": "PHILADELPHIA",
+    "stateOrCountry": "PA",
+    "stateOrCountryDescription": "PENNSYLVANIA",
+    "zipCode": "19143",
+    "issuerPhone": "503-438-9490",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-11-07",
+    "slug": "zamorak-inc-0002134718-26-000120",
+    "industrySlug": "other-technology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 10,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2026) (+2)",
+        "Incorporated within 5 years (2026) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "zamorak.com",
+      "domainConfidence": "high",
+      "domainScore": 85,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (zamorak.com) (+10)",
+        "HTML references officer/director Moos (+15)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "websiteTitle": "Zamorak — license your company data",
+      "httpStatus": 200
+    },
+    "signalScore": 77,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $15K capital sold",
+      "Recently incorporated (2026)",
+      "Recent first sale (2026-11-07)",
+      "Verified corporate domain (zamorak.com)",
+      "Enterprise email (Google Workspace)",
+      "Partial email authentication (SPF)"
+    ],
+    "enrichedAt": "2026-11-23T11:35:15.521Z"
+  },
+  {
+    "accessionNumber": "0002080259-26-000003",
+    "cik": "0002080259",
+    "formType": "D/A",
+    "filedAt": "2026-11-20T17:36:12-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2080259/000208025926000003/primary_doc.xml",
+    "entityName": "Paralos Bioscience Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Biotechnology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": true,
+    "totalOfferingAmount": 1100000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 1061900,
+    "totalRemaining": 38100,
+    "minimumInvestmentAccepted": 5000,
+    "totalInvestorsCount": 9,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Irene",
+        "lastName": "Chen",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Los Angeles",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Yanxi",
+        "lastName": "Yang",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "city": "Los Angeles",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "yearOfInc": "2024",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "570 WESTWOOD PLAZA LAB ROOM 6350",
+    "street2": "ATTN: PARALOS BIOSCIENCE INC (MAGNIFY)",
+    "city": "LOS ANGELES",
+    "stateOrCountry": "CA",
+    "stateOrCountryDescription": "CALIFORNIA",
+    "zipCode": "90095",
+    "issuerPhone": "6177108741",
+    "revenueRange": "$1 - $1,000,000",
+    "dateOfFirstSale": "2025-07-28",
+    "slug": "paralos-bioscience-inc-0002080259-26-000003",
+    "industrySlug": "biotechnology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 13,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2024) (+2)",
+        "Incorporated within 5 years (2024) (+1)",
+        "High-signal startup industry (Biotechnology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Early-stage revenue range ($1 - $1,000,000) (+1)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": []
+    },
+    "signalScore": 43,
+    "signalReasons": [
+      "Operating startup (Biotechnology)",
+      "Disclosed $1.1M capital sold",
+      "Recently incorporated (2024)"
+    ],
+    "enrichedAt": "2026-11-23T11:35:13.305Z"
+  },
+  {
+    "accessionNumber": "0002166434-26-000001",
+    "slug": "blue-spruce-management-inc-0002166434-26-000001",
+    "cik": "0002166434",
+    "formType": "D",
+    "filedAt": "2026-11-20T17:28:17-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2166434/000216643426000001/primary_doc.xml",
+    "entityName": "Blue Spruce Management, Inc.",
+    "entityType": "Corporation",
+    "yearOfInc": "2026",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "401 EAST MAIN STREET",
+    "city": "NEWPORT",
+    "stateOrCountry": "VT",
+    "zipCode": "05855",
+    "issuerPhone": "518-505-0633",
+    "industryGroupType": "Other",
+    "industrySlug": "other",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-11-06",
+    "totalOfferingAmount": 400000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 400000,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 1,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Mohammad",
+        "lastName": "Malik",
+        "relationships": [
+          "Executive Officer",
+          "Director",
+          "Promoter"
+        ],
+        "middleName": "Umair",
+        "city": "Newport",
+        "stateOrCountry": "VT"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": []
+    },
+    "signalScore": 45,
+    "signalReasons": [
+      "Operating company (Other)",
+      "Disclosed $400K capital sold",
+      "Recently incorporated (2026)",
+      "Recent first sale (2026-11-06)"
+    ],
+    "enrichedAt": "2026-11-23T10:45:55.374Z"
+  },
+  {
+    "accessionNumber": "0001928649-26-000003",
+    "slug": "mtntough-inc-0001928649-26-000003",
+    "cik": "0001928649",
+    "formType": "D",
+    "filedAt": "2026-11-20T16:56:47-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/1928649/000192864926000003/primary_doc.xml",
+    "entityName": "MTNTough Inc.",
+    "entityType": "Corporation",
+    "yearOfInc": "2022",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "167 All West Trail",
+    "city": "BOZEMAN",
+    "stateOrCountry": "MT",
+    "zipCode": "59715",
+    "issuerPhone": "(406) 577-2165",
+    "industryGroupType": "Other Technology",
+    "industrySlug": "other-technology",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "Decline to Disclose",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "dateOfFirstSale": "2026-11-12",
+    "totalOfferingAmount": 1238157,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 1238157,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 45000,
+    "totalInvestorsCount": 14,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Lyle",
+        "lastName": "Hebel",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Bozeman",
+        "stateOrCountry": "MT"
+      },
+      {
+        "firstName": "Randy",
+        "lastName": "Newberg",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Bozeman",
+        "stateOrCountry": "MT"
+      },
+      {
+        "firstName": "Allison",
+        "lastName": "Wing",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Bozeman",
+        "stateOrCountry": "MT"
+      },
+      {
+        "firstName": "Ryan",
+        "lastName": "Watson",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Bozeman",
+        "stateOrCountry": "MT"
+      },
+      {
+        "firstName": "David",
+        "lastName": "Fuller",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Bozeman",
+        "stateOrCountry": "MT"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": "mtntough.com",
+      "domainConfidence": "high",
+      "websiteTitle": "MTNTOUGH - Online Physical & Mental Fitness for Mountain Athletes",
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": true,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ]
+    },
+    "signalScore": 77,
+    "signalReasons": [
+      "Operating company (Other Technology)",
+      "Disclosed $1.2M capital sold",
+      "Recent first sale (2026-11-12)",
+      "Verified corporate domain (mtntough.com)",
+      "Enterprise email (Google Workspace)",
+      "SPF & DMARC email authentication configured"
+    ],
+    "enrichedAt": "2026-11-23T10:45:52.633Z"
+  },
+  {
+    "accessionNumber": "0001649572-26-000001",
+    "slug": "mr3-health-inc-0001649572-26-000001",
+    "cik": "0001649572",
+    "formType": "D/A",
+    "filedAt": "2026-11-20T16:48:26-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/1649572/000164957226000001/primary_doc.xml",
+    "entityName": "MR3 Health, Inc.",
+    "entityType": "Corporation",
+    "jurisdictionOfInc": "TEXAS",
+    "street1": "6205 West Ave #B",
+    "city": "SAN ANTONIO",
+    "stateOrCountry": "TX",
+    "zipCode": "78213",
+    "issuerPhone": "210-562-3128",
+    "industryGroupType": "Other Health Care",
+    "industrySlug": "other-health-care",
+    "isPooledInvestmentFund": false,
+    "revenueRange": "$1 - $1,000,000",
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": true,
+    "dateOfFirstSale": "2022-07-08",
+    "totalOfferingAmount": 6000000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 765000,
+    "totalRemaining": 5235000,
+    "minimumInvestmentAccepted": 9000,
+    "totalInvestorsCount": 11,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Stan",
+        "lastName": "Marett",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "city": "San Antonio",
+        "stateOrCountry": "TX"
+      }
+    ],
+    "telemetry": {
+      "resolvedDomain": "mr3health.com",
+      "domainConfidence": "high",
+      "websiteTitle": "Who We Are - MR3 Health",
+      "mxProvider": "microsoft-365",
+      "hasSpf": true,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ]
+    },
+    "signalScore": 62,
+    "signalReasons": [
+      "Operating company (Other Health Care)",
+      "Disclosed $765K capital sold",
+      "Verified corporate domain (mr3health.com)",
+      "Enterprise email (Microsoft 365)",
+      "Partial email authentication (SPF)"
+    ],
+    "enrichedAt": "2026-11-23T10:45:53.235Z"
+  },
+  {
+    "accessionNumber": "0001934245-26-000004",
+    "cik": "0001934245",
+    "formType": "D",
+    "filedAt": "2026-11-20T16:16:50-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/1934245/000193424526000004/primary_doc.xml",
+    "entityName": "Newton Golf Company, Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Manufacturing",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 1500000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 500000,
+    "totalRemaining": 1000000,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 2,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Gregg",
+        "lastName": "Hemphill",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Camarillo",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Jeff",
+        "lastName": "Clayborne",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "city": "Camarillo",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Akinobu",
+        "lastName": "Yorihiro",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Camarillo",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "John",
+        "lastName": "Bode",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Camarillo",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Jane",
+        "lastName": "Casanta",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Camarillo",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Brett",
+        "lastName": "Hoge",
+        "relationships": [
+          "Director"
+        ],
+        "middleName": "W.",
+        "city": "Camarillo",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "551 CALLE SAN PABLO",
+    "city": "CAMARILLO",
+    "stateOrCountry": "CA",
+    "stateOrCountryDescription": "CALIFORNIA",
+    "zipCode": "93012",
+    "issuerPhone": "833-776-6659",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-11-06",
+    "slug": "newton-golf-company-inc-0001934245-26-000004",
+    "industrySlug": "manufacturing",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 6,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Operating industry (Manufacturing) (+1)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "newtongolfco.com",
+      "domainConfidence": "high",
+      "domainScore": 70,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (newtongolfco.com) (+10)",
+        "Industry keyword overlap (Manufacturing) (+5)",
+        "MX record present (microsoft-365) (+5)",
+        "Enterprise MX (microsoft-365) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "microsoft-365",
+      "hasSpf": true,
+      "hasDmarc": true,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ],
+      "websiteTitle": "Premium Golf Shafts & Putters | Newton Golf",
+      "httpStatus": 200
+    },
+    "signalScore": 72,
+    "signalReasons": [
+      "Operating startup (Manufacturing)",
+      "Disclosed $500K capital sold",
+      "Recent first sale (2026-11-06)",
+      "Verified corporate domain (newtongolfco.com)",
+      "Enterprise email (Microsoft 365)",
+      "SPF & DMARC email authentication configured"
+    ],
+    "enrichedAt": "2026-11-23T11:35:18.374Z"
+  },
+  {
+    "accessionNumber": "0002031706-26-000001",
+    "cik": "0002031706",
+    "formType": "D",
+    "filedAt": "2026-11-20T16:10:19-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2031706/000203170626000001/primary_doc.xml",
+    "entityName": "BrightAI Corp",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Technology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 85351242,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 85351242,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 10,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Alexander",
+        "lastName": "Hawkinson",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Palo Alto",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Kiran",
+        "lastName": "Bharwani",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Palo Alto",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Golda",
+        "lastName": "Hartman",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "city": "Palo Alto",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Nick",
+        "lastName": "Kim",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Palo Alto",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Alexa",
+        "lastName": "von Tobel",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Palo Alto",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Andrew",
+        "lastName": "Singer",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Palo Alto",
+        "stateOrCountry": "CA"
+      },
+      {
+        "firstName": "Samir",
+        "lastName": "Kaul",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Palo Alto",
+        "stateOrCountry": "CA"
+      }
+    ],
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "1001 Page Mill Road",
+    "street2": "Bldg 3",
+    "city": "Palo Alto",
+    "stateOrCountry": "CA",
+    "stateOrCountryDescription": "CALIFORNIA",
+    "zipCode": "94304",
+    "issuerPhone": "415-977-7159",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2025-12-05",
+    "slug": "brightai-corp-0002031706-26-000001",
+    "industrySlug": "other-technology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 7,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "bright.ai",
+      "domainConfidence": "high",
+      "domainScore": 75,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (bright.ai) (+10)",
+        "HTML contains issuer location (Palo Alto) (+10)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": true,
+      "detectedAts": "careers-page",
+      "techSignals": [
+        "Cloudflare",
+        "Webflow"
+      ],
+      "websiteTitle": "BrightAI | Physical AI for Essential Infrastructure",
+      "httpStatus": 200,
+      "careersUrl": "https://www.bright.ai/careers"
+    },
+    "signalScore": 80,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $85.4M capital sold",
+      "Verified corporate domain (bright.ai)",
+      "Enterprise email (Google Workspace)",
+      "SPF & DMARC email authentication configured",
+      "Public careers page detected"
+    ],
+    "enrichedAt": "2026-11-23T11:35:22.017Z"
+  },
+  {
+    "accessionNumber": "0002160625-26-000001",
+    "cik": "0002160625",
+    "formType": "D",
+    "filedAt": "2026-11-20T16:03:40-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2160625/000216062526000001/primary_doc.xml",
+    "entityName": "Luwian AI Inc",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Technology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": null,
+    "isIndefiniteOffering": true,
+    "totalAmountSold": 693000,
+    "totalRemaining": null,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 1,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Aykut",
+        "lastName": "Kahraman",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "Faruk",
+        "relationshipClarification": "President, Chief Executive Officer, Chief Financial Officer and Secretary",
+        "city": "Amherst",
+        "stateOrCountry": "NY"
+      },
+      {
+        "firstName": "Aytekin",
+        "lastName": "Oldac",
+        "relationships": [
+          "Director"
+        ],
+        "relationshipClarification": "Chairman of the Board",
+        "city": "Amherst",
+        "stateOrCountry": "NY"
+      }
+    ],
+    "yearOfInc": "2024",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "74 BOXELDER LANE",
+    "city": "AMHERST",
+    "stateOrCountry": "NY",
+    "stateOrCountryDescription": "NEW YORK",
+    "zipCode": "14228",
+    "issuerPhone": "7163354545",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2025-05-01",
+    "slug": "luwian-ai-inc-0002160625-26-000001",
+    "industrySlug": "other-technology",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 12,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2024) (+2)",
+        "Incorporated within 5 years (2024) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "luwian.ai",
+      "domainConfidence": "high",
+      "domainScore": 95,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (luwian.ai) (+10)",
+        "HTML contains entity legal-name variant (+15)",
+        "HTML references officer/director Kahraman (+15)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": false,
+      "hasDmarc": true,
+      "detectedAts": "none",
+      "techSignals": [],
+      "websiteTitle": "Luwian AI – ML Model Development",
+      "httpStatus": 200
+    },
+    "signalScore": 70,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $693K capital sold",
+      "Recently incorporated (2024)",
+      "Verified corporate domain (luwian.ai)",
+      "Enterprise email (Google Workspace)",
+      "Partial email authentication (DMARC)"
+    ],
+    "enrichedAt": "2026-11-23T11:35:19.459Z"
+  },
+  {
+    "accessionNumber": "0002165942-26-000001",
+    "cik": "0002165942",
+    "formType": "D",
+    "filedAt": "2026-11-20T16:03:05-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2165942/000216594226000001/primary_doc.xml",
+    "entityName": "Manifest Financial, Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Banking and Financial Services",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 10000000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 4500000,
+    "totalRemaining": 5500000,
+    "minimumInvestmentAccepted": 100000,
+    "totalInvestorsCount": 2,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 112500,
+    "relatedPersons": [
+      {
+        "firstName": "Michael",
+        "lastName": "Cavallaro",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Austin",
+        "stateOrCountry": "TX"
+      }
+    ],
+    "yearOfInc": "2023",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "14205 N MOPAC EXPRESSWAY",
+    "street2": "STE 570, PMB 168167",
+    "city": "AUSTIN",
+    "stateOrCountry": "TX",
+    "stateOrCountryDescription": "TEXAS",
+    "zipCode": "78728-6529",
+    "issuerPhone": "424-209-7547",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-11-06",
+    "slug": "manifest-financial-inc-0002165942-26-000001",
+    "industrySlug": "other-banking-and-financial-services",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 8,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2023) (+2)",
+        "Incorporated within 5 years (2023) (+1)",
+        "Operating industry (Other Banking and Financial Services) (+1)",
+        "Human executive officer disclosed (+1)"
+      ]
+    },
+    "telemetry": {
+      "resolvedDomain": "manifestfinancial.com",
+      "domainConfidence": "high",
+      "domainScore": 70,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (manifestfinancial.com) (+10)",
+        "Industry keyword overlap (Other Banking and Financial Services) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": false,
+      "hasDmarc": true,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare",
+        "Webflow"
+      ],
+      "websiteTitle": "Manifest Financial | Banking Solutions for Creators",
+      "httpStatus": 200
+    },
+    "signalScore": 82,
+    "signalReasons": [
+      "Operating startup (Other Banking and Financial Services)",
+      "Disclosed $4.5M capital sold",
+      "Recently incorporated (2023)",
+      "Recent first sale (2026-11-06)",
+      "Verified corporate domain (manifestfinancial.com)",
+      "Enterprise email (Google Workspace)",
+      "Partial email authentication (DMARC)"
+    ],
+    "enrichedAt": "2026-11-23T11:35:28.054Z"
+  },
+  {
+    "accessionNumber": "0001231919-26-001619",
+    "cik": "0001644247",
+    "formType": "D",
+    "filedAt": "2026-11-20T15:46:29-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/1644247/000123191926001619/primary_doc.xml",
+    "entityName": "Perpay, Inc",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Technology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 64999671,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 21718676,
+    "totalRemaining": 43280995,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 1,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Harry",
+        "lastName": "Cherken",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "S",
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      },
+      {
+        "firstName": "Anthony",
+        "lastName": "DiMarco",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "middleName": "Christian",
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      },
+      {
+        "firstName": "Tehmina",
+        "lastName": "Haider",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      },
+      {
+        "firstName": "David",
+        "lastName": "Hayne",
+        "relationships": [
+          "Director"
+        ],
+        "middleName": "A",
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      },
+      {
+        "firstName": "Andrew",
+        "lastName": "Newcomb",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      },
+      {
+        "firstName": "Ralph",
+        "lastName": "Schipani, III",
+        "relationships": [
+          "Director"
+        ],
+        "middleName": "A",
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      },
+      {
+        "firstName": "Josh",
+        "lastName": "Kopelman",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Philadelphia",
+        "stateOrCountry": "PA"
+      }
+    ],
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "2400 MARKET STREET",
+    "street2": "SUITE 300",
+    "city": "PHILADELPHIA",
+    "stateOrCountry": "PA",
+    "stateOrCountryDescription": "PENNSYLVANIA",
+    "zipCode": "19103",
+    "issuerPhone": "215-398-1284",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-11-05",
+    "slug": "perpay-inc-0001231919-26-001619",
+    "industrySlug": "other-technology",
+    "telemetry": {
+      "resolvedDomain": "perpay.com",
+      "domainConfidence": "high",
+      "domainScore": 85,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (perpay.com) (+10)",
+        "HTML contains entity legal-name variant (+15)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": true,
+      "detectedAts": "careers-page",
+      "techSignals": [
+        "Cloudflare",
+        "Webflow"
+      ],
+      "websiteTitle": "Perpay | Make your paycheck work harder for you.",
+      "httpStatus": 200,
+      "careersUrl": "https://perpay.com/careers"
+    },
+    "signalScore": 87,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $21.7M capital sold",
+      "Recent first sale (2026-11-05)",
+      "Verified corporate domain (perpay.com)",
+      "Enterprise email (Google Workspace)",
+      "SPF & DMARC email authentication configured",
+      "Public careers page detected"
+    ],
+    "enrichedAt": "2026-11-23T11:34:43.632Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 7,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002165632-26-000001",
+    "cik": "0002165632",
+    "formType": "D",
+    "filedAt": "2026-11-20T15:30:07-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2165632/000216563226000001/primary_doc.xml",
+    "entityName": "Engineered Arts Holding Company, Inc.",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Technology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 15000000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 14500000,
+    "totalRemaining": 500000,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 38,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Nicolas",
+        "lastName": "Desmarais",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Falmouth",
+        "stateOrCountry": "X0"
+      },
+      {
+        "firstName": "John",
+        "lastName": "Pharr",
+        "relationships": [
+          "Executive Officer"
+        ],
+        "middleName": "S.",
+        "city": "Falmouth",
+        "stateOrCountry": "X0"
+      },
+      {
+        "firstName": "Joseph",
+        "lastName": "Mardini",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Falmouth",
+        "stateOrCountry": "X0"
+      }
+    ],
+    "yearOfInc": "2024",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "E1-E3 CHURCH VIEW BUSINESS PARK",
+    "street2": "BICKLAND WATER ROAD",
+    "city": "FALMOUTH",
+    "stateOrCountry": "X0",
+    "stateOrCountryDescription": "UNITED KINGDOM",
+    "zipCode": "TR11 4FZ",
+    "issuerPhone": "667-274-0803",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-02-06",
+    "slug": "engineered-arts-holding-company-inc-0002165632-26-000001",
+    "industrySlug": "other-technology",
+    "telemetry": {
+      "resolvedDomain": "engineeredarts.com",
+      "domainConfidence": "high",
+      "domainScore": 70,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (engineeredarts.com) (+10)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": true,
+      "detectedAts": "none",
+      "techSignals": [
+        "Cloudflare"
+      ],
+      "websiteTitle": "Engineered Arts: Embodied AI Social Humanoid Robots",
+      "httpStatus": 200
+    },
+    "signalScore": 83,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $14.5M capital sold",
+      "Recently incorporated (2024)",
+      "Verified corporate domain (engineeredarts.com)",
+      "Enterprise email (Google Workspace)",
+      "SPF & DMARC email authentication configured"
+    ],
+    "enrichedAt": "2026-11-23T11:34:44.578Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 12,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2024) (+2)",
+        "Incorporated within 5 years (2024) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002163334-26-000001",
+    "cik": "0002163334",
+    "formType": "D",
+    "filedAt": "2026-11-20T14:58:35-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2163334/000216333426000001/primary_doc.xml",
+    "entityName": "MAPLE PRIVACY LABS, INC.",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Technology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 5368887,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 5368887,
+    "totalRemaining": 0,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 6,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Mark",
+        "lastName": "Suman",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Austin",
+        "stateOrCountry": "TX"
+      },
+      {
+        "firstName": "Anthony",
+        "lastName": "Ronning",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "city": "Austin",
+        "stateOrCountry": "TX"
+      },
+      {
+        "firstName": "Nick",
+        "lastName": "Efstratis",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Austin",
+        "stateOrCountry": "TX"
+      }
+    ],
+    "yearOfInc": "2023",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "601 CONGRESS AVE",
+    "street2": "SUITE 250",
+    "city": "AUSTIN",
+    "stateOrCountry": "TX",
+    "stateOrCountryDescription": "TEXAS",
+    "zipCode": "78701",
+    "issuerPhone": "512-420-6720",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-09-29",
+    "slug": "maple-privacy-labs-inc-0002163334-26-000001",
+    "industrySlug": "other-technology",
+    "telemetry": {
+      "resolvedDomain": null,
+      "domainConfidence": "none",
+      "mxProvider": "none",
+      "hasSpf": false,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "domainScore": 0,
+      "domainEvidence": []
+    },
+    "signalScore": 50,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $5.4M capital sold",
+      "Recently incorporated (2023)",
+      "Recent first sale (2026-09-29)"
+    ],
+    "enrichedAt": "2026-11-23T11:34:49.290Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 12,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2023) (+2)",
+        "Incorporated within 5 years (2023) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    }
+  },
+  {
+    "accessionNumber": "0002164404-26-000001",
+    "cik": "0002164404",
+    "formType": "D",
+    "filedAt": "2026-11-20T14:52:32-05:00",
+    "filingUrl": "https://www.sec.gov/Archives/edgar/data/2164404/000216440426000001/primary_doc.xml",
+    "entityName": "TYDAL TECHNOLOGIES, INC.",
+    "entityType": "Corporation",
+    "industryGroupType": "Other Technology",
+    "isPooledInvestmentFund": false,
+    "federalExemptions": [
+      "06b"
+    ],
+    "isAmendment": false,
+    "totalOfferingAmount": 2000000,
+    "isIndefiniteOffering": false,
+    "totalAmountSold": 1999999,
+    "totalRemaining": 1,
+    "minimumInvestmentAccepted": 0,
+    "totalInvestorsCount": 1,
+    "hasNonAccreditedInvestors": false,
+    "salesCommissions": 0,
+    "findersFees": 0,
+    "relatedPersons": [
+      {
+        "firstName": "Eric",
+        "lastName": "Wisch",
+        "relationships": [
+          "Executive Officer",
+          "Director"
+        ],
+        "relationshipClarification": "CEO, Director",
+        "city": "Cambridge",
+        "stateOrCountry": "MA"
+      },
+      {
+        "firstName": "Wan Li",
+        "lastName": "Zhu",
+        "relationships": [
+          "Director"
+        ],
+        "city": "Cambridge",
+        "stateOrCountry": "X1"
+      }
+    ],
+    "yearOfInc": "2025",
+    "jurisdictionOfInc": "DELAWARE",
+    "street1": "1770 MASSACHUSETTS AVE, SUITE 611",
+    "city": "CAMBRIDGE",
+    "stateOrCountry": "MA",
+    "stateOrCountryDescription": "MASSACHUSETTS",
+    "zipCode": "01240",
+    "issuerPhone": "5083061850",
+    "revenueRange": "Decline to Disclose",
+    "dateOfFirstSale": "2026-10-22",
+    "slug": "tydal-technologies-inc-0002164404-26-000001",
+    "industrySlug": "other-technology",
+    "telemetry": {
+      "resolvedDomain": "tydaltechnologies.com",
+      "domainConfidence": "high",
+      "domainScore": 70,
+      "domainEvidence": [
+        "Brand match in title/site_name (+40)",
+        "Final host matches candidate/brand (tydaltechnologies.com) (+10)",
+        "Industry keyword overlap (Other Technology) (+5)",
+        "MX record present (google-workspace) (+5)",
+        "Enterprise MX (google-workspace) (+5)",
+        "Canonical .com candidate (+5)"
+      ],
+      "mxProvider": "google-workspace",
+      "hasSpf": true,
+      "hasDmarc": false,
+      "detectedAts": "none",
+      "techSignals": [],
+      "websiteTitle": "Tydal Technologies | The Intelligence Layer for America's Working Waterfront",
+      "httpStatus": 200
+    },
+    "signalScore": 82,
+    "signalReasons": [
+      "Operating startup (Other Technology)",
+      "Disclosed $2.0M capital sold",
+      "Recently incorporated (2025)",
+      "Recent first sale (2026-10-22)",
+      "Verified corporate domain (tydaltechnologies.com)",
+      "Enterprise email (Google Workspace)",
+      "Partial email authentication (SPF)"
+    ],
+    "enrichedAt": "2026-11-23T11:34:51.674Z",
+    "classification": {
+      "entityClass": "startup",
+      "isOperating": true,
+      "isStartup": true,
+      "startupScore": 12,
+      "reasons": [
+        "Incorporated as Corporation (+2)",
+        "Delaware jurisdiction (+1)",
+        "Incorporated within 10 years (2025) (+2)",
+        "Incorporated within 5 years (2025) (+1)",
+        "High-signal startup industry (Other Technology) (+2)",
+        "Tech/health/science name signal (+2)",
+        "Human executive officer disclosed (+1)",
+        "Multi-member human corporate leadership team (+1)"
+      ]
+    }
+  }
+]
