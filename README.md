@@ -2,9 +2,9 @@
 
 Automated daily open dataset of newly filed **U.S. SEC Regulation D (Form D / D/A)** startup funding rounds, classified to true operating startups (excluding pooled investment funds, structured finance vehicles, and real estate holding LLCs).
 
-- **Latest Snapshot Date:** `2026-11-26`
+- **Latest Snapshot Date:** `2026-11-27`
 - **Verified Operating Startups Tracked:** **32**
-- **Files:** [`data/2026-11-26.json`](./data/2026-11-26.json) · [`data/latest-operating-filings.csv`](./data/latest-operating-filings.csv)
+- **Files:** [`data/2026-11-27.json`](./data/2026-11-27.json) · [`data/latest-operating-filings.csv`](./data/latest-operating-filings.csv)
 - **Automated Schedule:** Updated Monday–Friday at 22:15 UTC via GitHub Actions ([`daily-sync.yml`](./.github/workflows/daily-sync.yml))
 
 ## Enriched Operating Startup Filings
